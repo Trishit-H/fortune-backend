@@ -42,9 +42,6 @@ function getFortune(req, res) {
   // Get a fortune based on the id generated
   const fortune = fortunes.find((fortune) => fortune.id == id);
 
-  // Log the fortune
-  console.log(fortune.text);
-
   // If no fortune available then log an error and send a response to the client
   if (!fortune) {
     console.error('No fortune found for the following id:', id);
