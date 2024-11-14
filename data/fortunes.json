@@ -1,0 +1,2782 @@
+[
+  {
+    "id": 1,
+    "text": "A day for firm decisions!!!!!  Or is it?"
+  },
+  {
+    "id": 2,
+    "text": "A few hours grace before the madness begins again."
+  },
+  {
+    "id": 3,
+    "text": "A gift of a flower will soon be made to you."
+  },
+  {
+    "id": 4,
+    "text": "A long-forgotten loved one will appear soon."
+  },
+  {
+    "id": 5,
+    "text": "Buy the negatives at any price."
+  },
+  {
+    "id": 6,
+    "text": "A tall, dark stranger will have more fun than you."
+  },
+  {
+    "id": 7,
+    "text": "A visit to a fresh place will bring strange work."
+  },
+  {
+    "id": 8,
+    "text": "A visit to a strange place will bring fresh work."
+  },
+  {
+    "id": 9,
+    "text": "A vivid and creative mind characterizes you."
+  },
+  {
+    "id": 10,
+    "text": "Abandon the search for Truth; settle for a good fantasy."
+  },
+  {
+    "id": 11,
+    "text": "Accent on helpful side of your nature.  Drain the moat."
+  },
+  {
+    "id": 12,
+    "text": "Advancement in position."
+  },
+  {
+    "id": 13,
+    "text": "After your lover has gone you will still have PEANUT BUTTER!"
+  },
+  {
+    "id": 14,
+    "text": "Afternoon very favorable for romance.  Try a single person for a change."
+  },
+  {
+    "id": 15,
+    "text": "Alimony and bribes will engage a large share of your wealth."
+  },
+  {
+    "id": 16,
+    "text": "All the troubles you have will pass away very quickly."
+  },
+  {
+    "id": 17,
+    "text": "Among the lucky, you are the chosen one."
+  },
+  {
+    "id": 18,
+    "text": "An avocado-tone refrigerator would look good on your resume."
+  },
+  {
+    "id": 19,
+    "text": "An exotic journey in downtown Newark is in your future."
+  },
+  {
+    "id": 20,
+    "text": "Another good night not to sleep in a eucalyptus tree."
+  },
+  {
+    "id": 21,
+    "text": "Are you a turtle?"
+  },
+  {
+    "id": 22,
+    "text": "Are you ever going to do the dishes?  Or will you change your major to biology?"
+  },
+  {
+    "id": 23,
+    "text": "Are you making all this up as you go along?"
+  },
+  {
+    "id": 24,
+    "text": "Are you sure the back door is locked?"
+  },
+  {
+    "id": 25,
+    "text": "Artistic ventures highlighted.  Rob a museum."
+  },
+  {
+    "id": 26,
+    "text": "Avert misunderstanding by calm, poise, and balance."
+  },
+  {
+    "id": 27,
+    "text": "Avoid gunfire in the bathroom tonight."
+  },
+  {
+    "id": 28,
+    "text": "Avoid reality at all costs."
+  },
+  {
+    "id": 29,
+    "text": "Bank error in your favor.  Collect $200."
+  },
+  {
+    "id": 30,
+    "text": "Be careful!  Is it classified?"
+  },
+  {
+    "id": 31,
+    "text": "Be careful!  UGLY strikes 9 out of 10!"
+  },
+  {
+    "id": 32,
+    "text": "Be cautious in your daily affairs."
+  },
+  {
+    "id": 33,
+    "text": "Be cheerful while you are alive.\n\t\t-- Phathotep, 24th Century B.C."
+  },
+  {
+    "id": 34,
+    "text": "Be different: conform."
+  },
+  {
+    "id": 35,
+    "text": "Be free and open and breezy!  Enjoy!  Things won't get any better so\nget used to it."
+  },
+  {
+    "id": 36,
+    "text": "Be security conscious -- National defense is at stake."
+  },
+  {
+    "id": 37,
+    "text": "Beauty and harmony are as necessary to you as the very breath of life."
+  },
+  {
+    "id": 38,
+    "text": "Best of all is never to have been born.  Second best is to die soon."
+  },
+  {
+    "id": 39,
+    "text": "Better hope the life-inspector doesn't come around while you have your\nlife in such a mess."
+  },
+  {
+    "id": 40,
+    "text": "Beware of a dark-haired man with a loud tie."
+  },
+  {
+    "id": 41,
+    "text": "Beware of a tall black man with one blond shoe."
+  },
+  {
+    "id": 42,
+    "text": "Beware of a tall blond man with one black shoe."
+  },
+  {
+    "id": 43,
+    "text": "Beware of Bigfoot!"
+  },
+  {
+    "id": 44,
+    "text": "Beware of low-flying butterflies."
+  },
+  {
+    "id": 45,
+    "text": "Beware the one behind you."
+  },
+  {
+    "id": 46,
+    "text": "Blow it out your ear."
+  },
+  {
+    "id": 47,
+    "text": "Break into jail and claim police brutality."
+  },
+  {
+    "id": 48,
+    "text": "Bridge ahead.  Pay troll."
+  },
+  {
+    "id": 49,
+    "text": "Caution: breathing may be hazardous to your health."
+  },
+  {
+    "id": 50,
+    "text": "Caution: Keep out of reach of children."
+  },
+  {
+    "id": 51,
+    "text": "Celebrate Hannibal Day this year.  Take an elephant to lunch."
+  },
+  {
+    "id": 52,
+    "text": "Change your thoughts and you change your world."
+  },
+  {
+    "id": 53,
+    "text": "Cheer Up!  Things are getting worse at a slower rate."
+  },
+  {
+    "id": 54,
+    "text": "Chess tonight."
+  },
+  {
+    "id": 55,
+    "text": "Chicken Little only has to be right once."
+  },
+  {
+    "id": 56,
+    "text": "Chicken Little was right."
+  },
+  {
+    "id": 57,
+    "text": "Cold hands, no gloves."
+  },
+  {
+    "id": 58,
+    "text": "Communicate!  It can't make things any worse."
+  },
+  {
+    "id": 59,
+    "text": "Courage is your greatest present need."
+  },
+  {
+    "id": 60,
+    "text": "Day of inquiry.  You will be subpoenaed."
+  },
+  {
+    "id": 61,
+    "text": "Do not overtax your powers."
+  },
+  {
+    "id": 62,
+    "text": "Do not sleep in a eucalyptus tree tonight."
+  },
+  {
+    "id": 63,
+    "text": "Do nothing unless you must, and when you must act -- hesitate."
+  },
+  {
+    "id": 64,
+    "text": "Do something unusual today.  Pay a bill."
+  },
+  {
+    "id": 65,
+    "text": "Do what comes naturally.  Seethe and fume and throw a tantrum."
+  },
+  {
+    "id": 66,
+    "text": "Domestic happiness and faithful friends."
+  },
+  {
+    "id": 67,
+    "text": "Don't feed the bats tonight."
+  },
+  {
+    "id": 68,
+    "text": "Don't get stuck in a closet -- wear yourself out."
+  },
+  {
+    "id": 69,
+    "text": "Don't get to bragging."
+  },
+  {
+    "id": 70,
+    "text": "Don't go surfing in South Dakota for a while."
+  },
+  {
+    "id": 71,
+    "text": "Don't hate yourself in the morning -- sleep till noon."
+  },
+  {
+    "id": 72,
+    "text": "Don't kiss an elephant on the lips today."
+  },
+  {
+    "id": 73,
+    "text": "Don't let your mind wander -- it's too little to be let out alone."
+  },
+  {
+    "id": 74,
+    "text": "Don't look back, the lemmings are gaining on you."
+  },
+  {
+    "id": 75,
+    "text": "Don't look now, but the man in the moon is laughing at you."
+  },
+  {
+    "id": 76,
+    "text": "Don't look now, but there is a multi-legged creature on your shoulder."
+  },
+  {
+    "id": 77,
+    "text": "Don't plan any hasty moves.  You'll be evicted soon anyway."
+  },
+  {
+    "id": 78,
+    "text": "Don't read any sky-writing for the next two weeks."
+  },
+  {
+    "id": 79,
+    "text": "Don't read everything you believe."
+  },
+  {
+    "id": 80,
+    "text": "Don't relax!  It's only your tension that's holding you together."
+  },
+  {
+    "id": 81,
+    "text": "Don't tell any big lies today.  Small ones can be just as effective."
+  },
+  {
+    "id": 82,
+    "text": "Don't worry so loud, your roommate can't think."
+  },
+  {
+    "id": 83,
+    "text": "Don't Worry, Be Happy.\n\t\t-- Meher Baba"
+  },
+  {
+    "id": 84,
+    "text": "Don't worry.  Life's too long.\n\t\t-- Vincent Sardi, Jr."
+  },
+  {
+    "id": 85,
+    "text": "Don't you feel more like you do now than you did when you came in?"
+  },
+  {
+    "id": 86,
+    "text": "Don't you wish you had more energy... or less ambition?"
+  },
+  {
+    "id": 87,
+    "text": "Everything that you know is wrong, but you can be straightened out."
+  },
+  {
+    "id": 88,
+    "text": "Everything will be just tickety-boo today."
+  },
+  {
+    "id": 89,
+    "text": "Excellent day for putting Slinkies on an escalator."
+  },
+  {
+    "id": 90,
+    "text": "Excellent day to have a rotten day."
+  },
+  {
+    "id": 91,
+    "text": "Excellent time to become a missing person."
+  },
+  {
+    "id": 92,
+    "text": "Executive ability is prominent in your make-up."
+  },
+  {
+    "id": 93,
+    "text": "Exercise caution in your daily affairs."
+  },
+  {
+    "id": 94,
+    "text": "Expect a letter from a friend who will ask a favor of you."
+  },
+  {
+    "id": 95,
+    "text": "Expect the worst, it's the least you can do."
+  },
+  {
+    "id": 96,
+    "text": "Fine day for friends.\nSo-so day for you."
+  },
+  {
+    "id": 97,
+    "text": "Fine day to work off excess energy.  Steal something heavy."
+  },
+  {
+    "id": 98,
+    "text": "Fortune: You will be attacked next Wednesday at 3:15 p.m. by six samurai\nsword wielding purple fish glued to Harley-Davidson motorcycles.\n\nOh, and have a nice day!\n\t\t-- Bryce Nesbitt '84"
+  },
+  {
+    "id": 99,
+    "text": "Future looks spotty.  You will spill soup in late evening."
+  },
+  {
+    "id": 100,
+    "text": "Generosity and perfection are your everlasting goals."
+  },
+  {
+    "id": 101,
+    "text": "Give him an evasive answer."
+  },
+  {
+    "id": 102,
+    "text": "Give thought to your reputation.  Consider changing name and moving to\na new town."
+  },
+  {
+    "id": 103,
+    "text": "Give your very best today.  Heaven knows it's little enough."
+  },
+  {
+    "id": 104,
+    "text": "Go to a movie tonight.  Darkness becomes you."
+  },
+  {
+    "id": 105,
+    "text": "Good day for a change of scene.  Repaper the bedroom wall."
+  },
+  {
+    "id": 106,
+    "text": "Good day for overcoming obstacles.  Try a steeplechase."
+  },
+  {
+    "id": 107,
+    "text": "Good day to deal with people in high places; particularly lonely stewardesses."
+  },
+  {
+    "id": 108,
+    "text": "Good day to let down old friends who need help."
+  },
+  {
+    "id": 109,
+    "text": "Good news from afar can bring you a welcome visitor."
+  },
+  {
+    "id": 110,
+    "text": "Good news.  Ten weeks from Friday will be a pretty good day."
+  },
+  {
+    "id": 111,
+    "text": "Good night to spend with family, but avoid arguments with your mate's\nnew lover."
+  },
+  {
+    "id": 112,
+    "text": "Green light in A.M. for new projects.  Red light in P.M. for traffic tickets."
+  },
+  {
+    "id": 113,
+    "text": "Hope that the day after you die is a nice day."
+  },
+  {
+    "id": 114,
+    "text": "If you can read this, you're too close."
+  },
+  {
+    "id": 115,
+    "text": "If you learn one useless thing every day, in a single year you'll learn\n365 useless things."
+  },
+  {
+    "id": 116,
+    "text": "If you sow your wild oats, hope for a crop failure."
+  },
+  {
+    "id": 117,
+    "text": "If you stand on your head, you will get footprints in your hair."
+  },
+  {
+    "id": 118,
+    "text": "If you think last Tuesday was a drag, wait till you see what happens tomorrow!"
+  },
+  {
+    "id": 119,
+    "text": "If your life was a horse, you'd have to shoot it."
+  },
+  {
+    "id": 120,
+    "text": "In the stairway of life, you'd best take the elevator."
+  },
+  {
+    "id": 121,
+    "text": "Increased knowledge will help you now.  Have mate's phone bugged."
+  },
+  {
+    "id": 122,
+    "text": "Is that really YOU that is reading this?"
+  },
+  {
+    "id": 123,
+    "text": "Is this really happening?"
+  },
+  {
+    "id": 124,
+    "text": "It is so very hard to be an\non-your-own-take-care-of-yourself-because-there-is-no-one-else-to-do-it-for-you\ngrown-up."
+  },
+  {
+    "id": 125,
+    "text": "It may or may not be worthwhile, but it still has to be done."
+  },
+  {
+    "id": 126,
+    "text": "It was all so different before everything changed."
+  },
+  {
+    "id": 127,
+    "text": "It's a very *__\b\bUN*lucky week in which to be took dead.\n\t\t-- Churchy La Femme"
+  },
+  {
+    "id": 128,
+    "text": "It's all in the mind, ya know."
+  },
+  {
+    "id": 129,
+    "text": "It's lucky you're going so slowly, because you're going in the wrong direction."
+  },
+  {
+    "id": 130,
+    "text": "Just because the message may never be received does not mean it is\nnot worth sending."
+  },
+  {
+    "id": 131,
+    "text": "Just to have it is enough."
+  },
+  {
+    "id": 132,
+    "text": "Keep emotionally active.  Cater to your favorite neurosis."
+  },
+  {
+    "id": 133,
+    "text": "Keep it short for pithy sake."
+  },
+  {
+    "id": 134,
+    "text": "Lady Luck brings added income today.  Lady friend takes it away tonight."
+  },
+  {
+    "id": 135,
+    "text": "Learn to pause -- or nothing worthwhile can catch up to you."
+  },
+  {
+    "id": 136,
+    "text": "Let me put it this way: today is going to be a learning experience."
+  },
+  {
+    "id": 137,
+    "text": "Life is to you a dashing and bold adventure."
+  },
+  {
+    "id": 138,
+    "text": "\"Life, loathe it or ignore it, you can't like it.\"\n\t\t-- Marvin, \"Hitchhiker's Guide to the Galaxy\""
+  },
+  {
+    "id": 139,
+    "text": "Live in a world of your own, but always welcome visitors."
+  },
+  {
+    "id": 140,
+    "text": "Living your life is a task so difficult, it has never been attempted before."
+  },
+  {
+    "id": 141,
+    "text": "Long life is in store for you."
+  },
+  {
+    "id": 142,
+    "text": "Look afar and see the end from the beginning."
+  },
+  {
+    "id": 143,
+    "text": "Love is in the offing.  Be affectionate to one who adores you."
+  },
+  {
+    "id": 144,
+    "text": "Make a wish, it might come true."
+  },
+  {
+    "id": 145,
+    "text": "Many changes of mind and mood; do not hesitate too long."
+  },
+  {
+    "id": 146,
+    "text": "Never be led astray onto the path of virtue."
+  },
+  {
+    "id": 147,
+    "text": "Never commit yourself!  Let someone else commit you."
+  },
+  {
+    "id": 148,
+    "text": "Never give an inch!"
+  },
+  {
+    "id": 149,
+    "text": "Never look up when dragons fly overhead."
+  },
+  {
+    "id": 150,
+    "text": "Never reveal your best argument."
+  },
+  {
+    "id": 151,
+    "text": "Next Friday will not be your lucky day.  As a matter of fact, you don't\nhave a lucky day this year."
+  },
+  {
+    "id": 152,
+    "text": "Of course you have a purpose -- to find a purpose."
+  },
+  {
+    "id": 153,
+    "text": "People are beginning to notice you.  Try dressing before you leave the house."
+  },
+  {
+    "id": 154,
+    "text": "Perfect day for scrubbing the floor and other exciting things."
+  },
+  {
+    "id": 155,
+    "text": "Questionable day.\n\nAsk somebody something."
+  },
+  {
+    "id": 156,
+    "text": "Reply hazy, ask again later."
+  },
+  {
+    "id": 157,
+    "text": "Save energy: be apathetic."
+  },
+  {
+    "id": 158,
+    "text": "Ships are safe in harbor, but they were never meant to stay there."
+  },
+  {
+    "id": 159,
+    "text": "Slow day.  Practice crawling."
+  },
+  {
+    "id": 160,
+    "text": "Snow Day -- stay home."
+  },
+  {
+    "id": 161,
+    "text": "So this is it.  We're going to die."
+  },
+  {
+    "id": 162,
+    "text": "So you're back... about time..."
+  },
+  {
+    "id": 163,
+    "text": "Someone is speaking well of you."
+  },
+  {
+    "id": 164,
+    "text": "Someone is speaking well of you.\n\nHow unusual!"
+  },
+  {
+    "id": 165,
+    "text": "Someone whom you reject today, will reject you tomorrow."
+  },
+  {
+    "id": 166,
+    "text": "Stay away from flying saucers today."
+  },
+  {
+    "id": 167,
+    "text": "Stay away from hurricanes for a while."
+  },
+  {
+    "id": 168,
+    "text": "Stay the curse."
+  },
+  {
+    "id": 169,
+    "text": "That secret you've been guarding, isn't."
+  },
+  {
+    "id": 170,
+    "text": "The time is right to make new friends."
+  },
+  {
+    "id": 171,
+    "text": "The whole world is a tuxedo and you are a pair of brown shoes.\n\t\t-- George Gobel"
+  },
+  {
+    "id": 172,
+    "text": "There is a 20"
+  },
+  {
+    "id": 173,
+    "text": "chance of tomorrow."
+  },
+  {
+    "id": 174,
+    "text": "There is a fly on your nose."
+  },
+  {
+    "id": 175,
+    "text": "There was a phone call for you."
+  },
+  {
+    "id": 176,
+    "text": "There will be big changes for you but you will be happy."
+  },
+  {
+    "id": 177,
+    "text": "Things will be bright in P.M.  A cop will shine a light in your face."
+  },
+  {
+    "id": 178,
+    "text": "Think twice before speaking, but don't say \"think think click click\"."
+  },
+  {
+    "id": 179,
+    "text": "This life is yours.  Some of it was given to you; the rest, you made yourself."
+  },
+  {
+    "id": 180,
+    "text": "This will be a memorable month -- no matter how hard you try to forget it."
+  },
+  {
+    "id": 181,
+    "text": "Time to be aggressive.  Go after a tattooed Virgo."
+  },
+  {
+    "id": 182,
+    "text": "Today is National Existential Ennui Awareness Day."
+  },
+  {
+    "id": 183,
+    "text": "Today is the first day of the rest of the mess."
+  },
+  {
+    "id": 184,
+    "text": "Today is the first day of the rest of your life."
+  },
+  {
+    "id": 185,
+    "text": "Today is the last day of your life so far."
+  },
+  {
+    "id": 186,
+    "text": "Today is the tomorrow you worried about yesterday."
+  },
+  {
+    "id": 187,
+    "text": "Today is what happened to yesterday."
+  },
+  {
+    "id": 188,
+    "text": "Today's weirdness is tomorrow's reason why.\n\t\t-- Hunter S. Thompson"
+  },
+  {
+    "id": 189,
+    "text": "Tomorrow will be cancelled due to lack of interest."
+  },
+  {
+    "id": 190,
+    "text": "Tomorrow, this will be part of the unchangeable past but fortunately,\nit can still be changed today."
+  },
+  {
+    "id": 191,
+    "text": "Tomorrow, you can be anywhere."
+  },
+  {
+    "id": 192,
+    "text": "Tonight you will pay the wages of sin; Don't forget to leave a tip."
+  },
+  {
+    "id": 193,
+    "text": "Tonight's the night: Sleep in a eucalyptus tree."
+  },
+  {
+    "id": 194,
+    "text": "Troubled day for virgins over 16 who are beautiful and wealthy and live\nin eucalyptus trees."
+  },
+  {
+    "id": 195,
+    "text": "Truth will out this morning.  (Which may really mess things up.)"
+  },
+  {
+    "id": 196,
+    "text": "Try the Moo Shu Pork.  It is especially good today."
+  },
+  {
+    "id": 197,
+    "text": "Try to get all of your posthumous medals in advance."
+  },
+  {
+    "id": 198,
+    "text": "Try to have as good a life as you can under the circumstances."
+  },
+  {
+    "id": 199,
+    "text": "Try to relax and enjoy the crisis.\n\t\t-- Ashleigh Brilliant"
+  },
+  {
+    "id": 200,
+    "text": "Try to value useful qualities in one who loves you."
+  },
+  {
+    "id": 201,
+    "text": "Tuesday After Lunch is the cosmic time of the week."
+  },
+  {
+    "id": 202,
+    "text": "Tuesday is the Wednesday of the rest of your life."
+  },
+  {
+    "id": 203,
+    "text": "What happened last night can happen again."
+  },
+  {
+    "id": 204,
+    "text": "While you recently had your problems on the run, they've regrouped and\nare making another attack."
+  },
+  {
+    "id": 205,
+    "text": "Write yourself a threatening letter and pen a defiant reply."
+  },
+  {
+    "id": 206,
+    "text": "You are a bundle of energy, always on the go."
+  },
+  {
+    "id": 207,
+    "text": "You are a fluke of the universe; you have no right to be here."
+  },
+  {
+    "id": 208,
+    "text": "You are a very redundant person, that's what kind of person you are."
+  },
+  {
+    "id": 209,
+    "text": "You are always busy."
+  },
+  {
+    "id": 210,
+    "text": "You are as I am with You."
+  },
+  {
+    "id": 211,
+    "text": "You are capable of planning your future."
+  },
+  {
+    "id": 212,
+    "text": "You are confused; but this is your normal state."
+  },
+  {
+    "id": 213,
+    "text": "You are deeply attached to your friends and acquaintances."
+  },
+  {
+    "id": 214,
+    "text": "You are destined to become the commandant of the fighting men of the\ndepartment of transportation."
+  },
+  {
+    "id": 215,
+    "text": "You are dishonest, but never to the point of hurting a friend."
+  },
+  {
+    "id": 216,
+    "text": "You are fairminded, just and loving."
+  },
+  {
+    "id": 217,
+    "text": "You are farsighted, a good planner, an ardent lover, and a faithful friend."
+  },
+  {
+    "id": 218,
+    "text": "You are fighting for survival in your own sweet and gentle way."
+  },
+  {
+    "id": 219,
+    "text": "You are going to have a new love affair."
+  },
+  {
+    "id": 220,
+    "text": "You are magnetic in your bearing."
+  },
+  {
+    "id": 221,
+    "text": "You are not dead yet.  But watch for further reports."
+  },
+  {
+    "id": 222,
+    "text": "You are number 6!  Who is number one?"
+  },
+  {
+    "id": 223,
+    "text": "You are only young once, but you can stay immature indefinitely."
+  },
+  {
+    "id": 224,
+    "text": "You are scrupulously honest, frank, and straightforward.  Therefore you\nhave few friends."
+  },
+  {
+    "id": 225,
+    "text": "You are sick, twisted and perverted.  I like that in a person."
+  },
+  {
+    "id": 226,
+    "text": "You are so boring that when I see you my feet go to sleep."
+  },
+  {
+    "id": 227,
+    "text": "You are standing on my toes."
+  },
+  {
+    "id": 228,
+    "text": "You are taking yourself far too seriously."
+  },
+  {
+    "id": 229,
+    "text": "You are the only person to ever get this message."
+  },
+  {
+    "id": 230,
+    "text": "You are wise, witty, and wonderful, but you spend too much time reading\nthis sort of trash."
+  },
+  {
+    "id": 231,
+    "text": "You attempt things that you do not even plan because of your extreme stupidity."
+  },
+  {
+    "id": 232,
+    "text": "You can create your own opportunities this week.  Blackmail a senior executive."
+  },
+  {
+    "id": 233,
+    "text": "You can do very well in speculation where land or anything to do with dirt\nis concerned."
+  },
+  {
+    "id": 234,
+    "text": "You can rent this space for only $5 a week."
+  },
+  {
+    "id": 235,
+    "text": "You could live a better life, if you had a better mind and a better body."
+  },
+  {
+    "id": 236,
+    "text": "You definitely intend to start living sometime soon."
+  },
+  {
+    "id": 237,
+    "text": "You dialed 5483."
+  },
+  {
+    "id": 238,
+    "text": "You display the wonderful traits of charm and courtesy."
+  },
+  {
+    "id": 239,
+    "text": "You don't become a failure until you're satisfied with being one."
+  },
+  {
+    "id": 240,
+    "text": "You enjoy the company of other people."
+  },
+  {
+    "id": 241,
+    "text": "You feel a whole lot more like you do now than you did when you used to."
+  },
+  {
+    "id": 242,
+    "text": "You fill a much-needed gap."
+  },
+  {
+    "id": 243,
+    "text": "You get along very well with everyone except animals and people."
+  },
+  {
+    "id": 244,
+    "text": "You had some happiness once, but your parents moved away, and you had to\nleave it behind."
+  },
+  {
+    "id": 245,
+    "text": "You have a deep appreciation of the arts and music."
+  },
+  {
+    "id": 246,
+    "text": "You have a deep interest in all that is artistic."
+  },
+  {
+    "id": 247,
+    "text": "You have a reputation for being thoroughly reliable and trustworthy.\nA pity that it's totally undeserved."
+  },
+  {
+    "id": 248,
+    "text": "You have a strong appeal for members of the opposite sex."
+  },
+  {
+    "id": 249,
+    "text": "You have a strong appeal for members of your own sex."
+  },
+  {
+    "id": 250,
+    "text": "You have a strong desire for a home and your family interests come first."
+  },
+  {
+    "id": 251,
+    "text": "You have a truly strong individuality."
+  },
+  {
+    "id": 252,
+    "text": "You have a will that can be influenced by all with whom you come in contact."
+  },
+  {
+    "id": 253,
+    "text": "You have an ability to sense and know higher truth."
+  },
+  {
+    "id": 254,
+    "text": "You have an ambitious nature and may make a name for yourself."
+  },
+  {
+    "id": 255,
+    "text": "You have an unusual equipment for success.  Be sure to use it properly."
+  },
+  {
+    "id": 256,
+    "text": "You have an unusual magnetic personality.  Don't walk too close to\nmetal objects which are not fastened down."
+  },
+  {
+    "id": 257,
+    "text": "You have an unusual understanding of the problems of human relationships."
+  },
+  {
+    "id": 258,
+    "text": "You have been selected for a secret mission."
+  },
+  {
+    "id": 259,
+    "text": "You have Egyptian flu: you're going to be a mummy."
+  },
+  {
+    "id": 260,
+    "text": "You have had a long-term stimulation relative to business."
+  },
+  {
+    "id": 261,
+    "text": "You have literary talent that you should take pains to develop."
+  },
+  {
+    "id": 262,
+    "text": "You have many friends and very few living enemies."
+  },
+  {
+    "id": 263,
+    "text": "You have no real enemies."
+  },
+  {
+    "id": 264,
+    "text": "You have taken yourself too seriously."
+  },
+  {
+    "id": 265,
+    "text": "You have the body of a 19 year old.  Please return it before it gets wrinkled."
+  },
+  {
+    "id": 266,
+    "text": "You have the capacity to learn from mistakes.  You'll learn a lot today."
+  },
+  {
+    "id": 267,
+    "text": "You have the power to influence all with whom you come in contact."
+  },
+  {
+    "id": 268,
+    "text": "You learn to write as if to someone else because NEXT YEAR YOU WILL BE\n\"SOMEONE ELSE.\""
+  },
+  {
+    "id": 269,
+    "text": "You like to form new friendships and make new acquaintances."
+  },
+  {
+    "id": 270,
+    "text": "You look like a million dollars.  All green and wrinkled."
+  },
+  {
+    "id": 271,
+    "text": "You look tired."
+  },
+  {
+    "id": 272,
+    "text": "You love peace."
+  },
+  {
+    "id": 273,
+    "text": "You love your home and want it to be beautiful."
+  },
+  {
+    "id": 274,
+    "text": "You may be gone tomorrow, but that doesn't mean that you weren't here today."
+  },
+  {
+    "id": 275,
+    "text": "You may be infinitely smaller than some things, but you're infinitely\nlarger than others."
+  },
+  {
+    "id": 276,
+    "text": "You may be recognized soon.  Hide."
+  },
+  {
+    "id": 277,
+    "text": "You may get an opportunity for advancement today.  Watch it!"
+  },
+  {
+    "id": 278,
+    "text": "You may worry about your hair-do today, but tomorrow much peanut butter will\nbe sold."
+  },
+  {
+    "id": 279,
+    "text": "You need more time; and you probably always will."
+  },
+  {
+    "id": 280,
+    "text": "You need no longer worry about the future.  This time tomorrow you'll be dead."
+  },
+  {
+    "id": 281,
+    "text": "You never hesitate to tackle the most difficult problems."
+  },
+  {
+    "id": 282,
+    "text": "You never know how many friends you have until you rent a house on the beach."
+  },
+  {
+    "id": 283,
+    "text": "You now have Asian Flu."
+  },
+  {
+    "id": 284,
+    "text": "You own a dog, but you can only feed a cat."
+  },
+  {
+    "id": 285,
+    "text": "You plan things that you do not even attempt because of your extreme caution."
+  },
+  {
+    "id": 286,
+    "text": "You possess a mind not merely twisted, but actually sprained."
+  },
+  {
+    "id": 287,
+    "text": "You prefer the company of the opposite sex, but are well liked by your own."
+  },
+  {
+    "id": 288,
+    "text": "You recoil from the crude; you tend naturally toward the exquisite."
+  },
+  {
+    "id": 289,
+    "text": "You seek to shield those you love and you like the role of the provider."
+  },
+  {
+    "id": 290,
+    "text": "You shall be rewarded for a dastardly deed."
+  },
+  {
+    "id": 291,
+    "text": "You should emulate your heros, but don't carry it too far.  Especially\nif they are dead."
+  },
+  {
+    "id": 292,
+    "text": "You should go home."
+  },
+  {
+    "id": 293,
+    "text": "You single-handedly fought your way into this hopeless mess."
+  },
+  {
+    "id": 294,
+    "text": "You teach best what you most need to learn."
+  },
+  {
+    "id": 295,
+    "text": "You too can wear a nose mitten."
+  },
+  {
+    "id": 296,
+    "text": "You two ought to be more careful--your love could drag on for years and years."
+  },
+  {
+    "id": 297,
+    "text": "You will always get the greatest recognition for the job you least like."
+  },
+  {
+    "id": 298,
+    "text": "You will always have good luck in your personal affairs."
+  },
+  {
+    "id": 299,
+    "text": "You will attract cultured and artistic people to your home."
+  },
+  {
+    "id": 300,
+    "text": "You will be a winner today.  Pick a fight with a four-year-old."
+  },
+  {
+    "id": 301,
+    "text": "You will be advanced socially, without any special effort on your part."
+  },
+  {
+    "id": 302,
+    "text": "You will be aided greatly by a person whom you thought to be unimportant."
+  },
+  {
+    "id": 303,
+    "text": "You will be attacked by a beast who has the body of a wolf, the tail of\na lion, and the face of Donald Duck."
+  },
+  {
+    "id": 304,
+    "text": "You will be audited by the Internal Revenue Service."
+  },
+  {
+    "id": 305,
+    "text": "You will be awarded a medal for disregarding safety in saving someone."
+  },
+  {
+    "id": 306,
+    "text": "You will be awarded some great honor."
+  },
+  {
+    "id": 307,
+    "text": "You will be awarded the Nobel Peace Prize... posthumously."
+  },
+  {
+    "id": 308,
+    "text": "You will be called upon to help a friend in trouble."
+  },
+  {
+    "id": 309,
+    "text": "You will be divorced within a year."
+  },
+  {
+    "id": 310,
+    "text": "You will be given a post of trust and responsibility."
+  },
+  {
+    "id": 311,
+    "text": "You will be held hostage by a radical group."
+  },
+  {
+    "id": 312,
+    "text": "You will be honored for contributing your time and skill to a worthy cause."
+  },
+  {
+    "id": 313,
+    "text": "You will be imprisoned for contributing your time and skill to a bank robbery."
+  },
+  {
+    "id": 314,
+    "text": "You will be married within a year, and divorced within two."
+  },
+  {
+    "id": 315,
+    "text": "You will be married within a year."
+  },
+  {
+    "id": 316,
+    "text": "You will be misunderstood by everyone."
+  },
+  {
+    "id": 317,
+    "text": "You will be recognized and honored as a community leader."
+  },
+  {
+    "id": 318,
+    "text": "You will be reincarnated as a toad; and you will be much happier."
+  },
+  {
+    "id": 319,
+    "text": "You will be run over by a beer truck."
+  },
+  {
+    "id": 320,
+    "text": "You will be run over by a bus."
+  },
+  {
+    "id": 321,
+    "text": "You will be singled out for promotion in your work."
+  },
+  {
+    "id": 322,
+    "text": "You will be successful in love."
+  },
+  {
+    "id": 323,
+    "text": "You will be surprised by a loud noise."
+  },
+  {
+    "id": 324,
+    "text": "You will be surrounded by luxury."
+  },
+  {
+    "id": 325,
+    "text": "You will be the last person to buy a Chrysler."
+  },
+  {
+    "id": 326,
+    "text": "You will be the victim of a bizarre joke."
+  },
+  {
+    "id": 327,
+    "text": "You will be Told about it Tomorrow.  Go Home and Prepare Thyself."
+  },
+  {
+    "id": 328,
+    "text": "You will be traveling and coming into a fortune."
+  },
+  {
+    "id": 329,
+    "text": "You will be winged by an anti-aircraft battery."
+  },
+  {
+    "id": 330,
+    "text": "You will become rich and famous unless you don't."
+  },
+  {
+    "id": 331,
+    "text": "You will contract a rare disease."
+  },
+  {
+    "id": 332,
+    "text": "You will engage in a profitable business activity."
+  },
+  {
+    "id": 333,
+    "text": "You will experience a strong urge to do good; but it will pass."
+  },
+  {
+    "id": 334,
+    "text": "You will feel hungry again in another hour."
+  },
+  {
+    "id": 335,
+    "text": "You will forget that you ever knew me."
+  },
+  {
+    "id": 336,
+    "text": "You will gain money by a fattening action."
+  },
+  {
+    "id": 337,
+    "text": "You will gain money by a speculation or lottery."
+  },
+  {
+    "id": 338,
+    "text": "You will gain money by an illegal action."
+  },
+  {
+    "id": 339,
+    "text": "You will gain money by an immoral action."
+  },
+  {
+    "id": 340,
+    "text": "You will get what you deserve."
+  },
+  {
+    "id": 341,
+    "text": "You will give someone a piece of your mind, which you can ill afford."
+  },
+  {
+    "id": 342,
+    "text": "You will have a long and boring life."
+  },
+  {
+    "id": 343,
+    "text": "You will have a long and unpleasant discussion with your supervisor."
+  },
+  {
+    "id": 344,
+    "text": "You will have domestic happiness and faithful friends."
+  },
+  {
+    "id": 345,
+    "text": "You will have good luck and overcome many hardships."
+  },
+  {
+    "id": 346,
+    "text": "You will have long and healthy life."
+  },
+  {
+    "id": 347,
+    "text": "You will hear good news from one you thought unfriendly to you."
+  },
+  {
+    "id": 348,
+    "text": "You will inherit millions of dollars."
+  },
+  {
+    "id": 349,
+    "text": "You will inherit some money or a small piece of land."
+  },
+  {
+    "id": 350,
+    "text": "You will live a long, healthy, happy life and make bags of money."
+  },
+  {
+    "id": 351,
+    "text": "You will live to see your grandchildren."
+  },
+  {
+    "id": 352,
+    "text": "You will lose your present job and have to become a door to door mayonnaise\nsalesman."
+  },
+  {
+    "id": 353,
+    "text": "You will meet an important person who will help you advance professionally."
+  },
+  {
+    "id": 354,
+    "text": "You will never know hunger."
+  },
+  {
+    "id": 355,
+    "text": "You will not be elected to public office this year."
+  },
+  {
+    "id": 356,
+    "text": "You will obey or molten silver will be poured into your ears."
+  },
+  {
+    "id": 357,
+    "text": "You will outgrow your usefulness."
+  },
+  {
+    "id": 358,
+    "text": "You will overcome the attacks of jealous associates."
+  },
+  {
+    "id": 359,
+    "text": "You will pass away very quickly."
+  },
+  {
+    "id": 360,
+    "text": "You will pay for your sins.  If you have already paid, please disregard\nthis message."
+  },
+  {
+    "id": 361,
+    "text": "You will pioneer the first Martian colony."
+  },
+  {
+    "id": 362,
+    "text": "You will probably marry after a very brief courtship."
+  },
+  {
+    "id": 363,
+    "text": "You will reach the highest possible point in your business or profession."
+  },
+  {
+    "id": 364,
+    "text": "You will receive a legacy which will place you above want."
+  },
+  {
+    "id": 365,
+    "text": "You will remember something that you should not have forgotten."
+  },
+  {
+    "id": 366,
+    "text": "You will soon forget this."
+  },
+  {
+    "id": 367,
+    "text": "You will soon meet a person who will play an important role in your life."
+  },
+  {
+    "id": 368,
+    "text": "You will step on the night soil of many countries."
+  },
+  {
+    "id": 369,
+    "text": "You will stop at nothing to reach your objective, but only because your\nbrakes are defective."
+  },
+  {
+    "id": 370,
+    "text": "You will triumph over your enemy."
+  },
+  {
+    "id": 371,
+    "text": "You will visit the Dung Pits of Glive soon."
+  },
+  {
+    "id": 372,
+    "text": "You will win success in whatever calling you adopt."
+  },
+  {
+    "id": 373,
+    "text": "You will wish you hadn't."
+  },
+  {
+    "id": 374,
+    "text": "You work very hard.  Don't try to think as well."
+  },
+  {
+    "id": 375,
+    "text": "You worry too much about your job.  Stop it.  You are not paid enough to worry."
+  },
+  {
+    "id": 376,
+    "text": "You would if you could but you can't so you won't."
+  },
+  {
+    "id": 377,
+    "text": "You'd like to do it instantaneously, but that's too slow."
+  },
+  {
+    "id": 378,
+    "text": "You'll be called to a post requiring ability in handling groups of people."
+  },
+  {
+    "id": 379,
+    "text": "You'll be sorry..."
+  },
+  {
+    "id": 380,
+    "text": "You'll feel devilish tonight.  Toss dynamite caps under a flamenco dancer's\nheel."
+  },
+  {
+    "id": 381,
+    "text": "You'll feel much better once you've given up hope."
+  },
+  {
+    "id": 382,
+    "text": "You'll never be the man your mother was!"
+  },
+  {
+    "id": 383,
+    "text": "You'll never see all the places, or read all the books, but fortunately,\nthey're not all recommended."
+  },
+  {
+    "id": 384,
+    "text": "You'll wish that you had done some of the hard things when they were easier\nto do."
+  },
+  {
+    "id": 385,
+    "text": "You're a card which will have to be dealt with."
+  },
+  {
+    "id": 386,
+    "text": "You're almost as happy as you think you are."
+  },
+  {
+    "id": 387,
+    "text": "You're at the end of the road again."
+  },
+  {
+    "id": 388,
+    "text": "You're being followed.  Cut out the hanky-panky for a few days."
+  },
+  {
+    "id": 389,
+    "text": "You're currently going through a difficult transition period called \"Life.\""
+  },
+  {
+    "id": 390,
+    "text": "You're definitely on their list.  The question to ask next is what list it is."
+  },
+  {
+    "id": 391,
+    "text": "You're growing out of some of your problems, but there are others that\nyou're growing into."
+  },
+  {
+    "id": 392,
+    "text": "You're not my type.  For that matter, you're not even my species!!!"
+  },
+  {
+    "id": 393,
+    "text": "You're ugly and your mother dresses you funny."
+  },
+  {
+    "id": 394,
+    "text": "You're working under a slight handicap.  You happen to be human."
+  },
+  {
+    "id": 395,
+    "text": "You've been leading a dog's life.  Stay off the furniture."
+  },
+  {
+    "id": 396,
+    "text": "Your aim is high and to the right."
+  },
+  {
+    "id": 397,
+    "text": "Your aims are high, and you are capable of much."
+  },
+  {
+    "id": 398,
+    "text": "Your analyst has you mixed up with another patient.  Don't believe a\nthing he tells you."
+  },
+  {
+    "id": 399,
+    "text": "Your best consolation is the hope that the things you failed to get weren't\nreally worth having."
+  },
+  {
+    "id": 400,
+    "text": "Your boss climbed the corporate ladder, wrong by wrong."
+  },
+  {
+    "id": 401,
+    "text": "Your boss is a few sandwiches short of a picnic."
+  },
+  {
+    "id": 402,
+    "text": "Your boyfriend takes chocolate from strangers."
+  },
+  {
+    "id": 403,
+    "text": "Your business will assume vast proportions."
+  },
+  {
+    "id": 404,
+    "text": "Your business will go through a period of considerable expansion."
+  },
+  {
+    "id": 405,
+    "text": "Your depth of comprehension may tend to make you lax in worldly ways."
+  },
+  {
+    "id": 406,
+    "text": "Your domestic life may be harmonious."
+  },
+  {
+    "id": 407,
+    "text": "Your fly might be open (but don't check it just now)."
+  },
+  {
+    "id": 408,
+    "text": "Your goose is cooked.\n(Your current chick is burned up too!)"
+  },
+  {
+    "id": 409,
+    "text": "Your heart is pure, and your mind clear, and your soul devout."
+  },
+  {
+    "id": 410,
+    "text": "Your ignorance cramps my conversation."
+  },
+  {
+    "id": 411,
+    "text": "Your life would be very empty if you had nothing to regret."
+  },
+  {
+    "id": 412,
+    "text": "Your love life will be happy and harmonious."
+  },
+  {
+    "id": 413,
+    "text": "Your love life will be... interesting."
+  },
+  {
+    "id": 414,
+    "text": "Your lover will never wish to leave you."
+  },
+  {
+    "id": 415,
+    "text": "Your lucky color has faded."
+  },
+  {
+    "id": 416,
+    "text": "Your lucky number has been disconnected."
+  },
+  {
+    "id": 417,
+    "text": "Your lucky number is 3552664958674928.  Watch for it everywhere."
+  },
+  {
+    "id": 418,
+    "text": "Your mode of life will be changed for the better because of good news soon."
+  },
+  {
+    "id": 419,
+    "text": "Your mode of life will be changed for the better because of new developments."
+  },
+  {
+    "id": 420,
+    "text": "Your motives for doing whatever good deed you may have in mind will be\nmisinterpreted by somebody."
+  },
+  {
+    "id": 421,
+    "text": "Your nature demands love and your happiness depends on it."
+  },
+  {
+    "id": 422,
+    "text": "Your object is to save the world, while still leading a pleasant life."
+  },
+  {
+    "id": 423,
+    "text": "Your own qualities will help prevent your advancement in the world."
+  },
+  {
+    "id": 424,
+    "text": "Your present plans will be successful."
+  },
+  {
+    "id": 425,
+    "text": "Your reasoning is excellent -- it's only your basic assumptions that are wrong."
+  },
+  {
+    "id": 426,
+    "text": "Your reasoning powers are good, and you are a fairly good planner."
+  },
+  {
+    "id": 427,
+    "text": "Your sister swims out to meet troop ships."
+  },
+  {
+    "id": 428,
+    "text": "Your society will be sought by people of taste and refinement."
+  },
+  {
+    "id": 429,
+    "text": "Your step will soil many countries."
+  },
+  {
+    "id": 430,
+    "text": "Your supervisor is thinking about you."
+  },
+  {
+    "id": 431,
+    "text": "Your talents will be recognized and suitably rewarded."
+  },
+  {
+    "id": 432,
+    "text": "Your temporary financial embarrassment will be relieved in a surprising manner."
+  },
+  {
+    "id": 433,
+    "text": "Your true value depends entirely on what you are compared with."
+  },
+  {
+    "id": 434,
+    "text": "A banker is a fellow who lends you his umbrella when the sun is shining\nand wants it back the minute it begins to rain.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 435,
+    "text": "A classic is something that everyone wants to have read\nand nobody wants to read.\n\t\t-- Mark Twain, \"The Disappearance of Literature\""
+  },
+  {
+    "id": 436,
+    "text": "A horse!  A horse!  My kingdom for a horse!\n\t\t-- Wm. Shakespeare, \"Richard III\""
+  },
+  {
+    "id": 437,
+    "text": "A hundred years from now it is very likely that [of Twain's works] \"The\nJumping Frog\" alone will be remembered.\n\t\t-- Harry Thurston Peck (Editor of \"The Bookman\"), January 1901."
+  },
+  {
+    "id": 438,
+    "text": "A is for Apple.\n\t\t-- Hester Pryne"
+  },
+  {
+    "id": 439,
+    "text": "A kind of Batman of contemporary letters.\n\t\t-- Philip Larkin on Anthony Burgess"
+  },
+  {
+    "id": 440,
+    "text": "A light wife doth make a heavy husband.\n\t\t-- Wm. Shakespeare, \"The Merchant of Venice\""
+  },
+  {
+    "id": 441,
+    "text": "A man was reading The Canterbury Tales one Saturday morning, when his\nwife asked \"What have you got there?\"  Replied he, \"Just my cup and Chaucer.\""
+  },
+  {
+    "id": 442,
+    "text": "... A solemn, unsmiling, sanctimonious old iceberg who looked like he\nwas waiting for a vacancy in the Trinity.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 443,
+    "text": "A Tale of Two Cities LITE(tm)\n\t-- by Charles Dickens\n\n\tA lawyer who looks like a French Nobleman is executed in his place.\n\nThe Metamorphosis LITE(tm)\n\t-- by Franz Kafka\n\n\tA man turns into a bug and his family gets annoyed.\n\nLord of the Rings LITE(tm)\n\t-- by J. R. R. Tolkien\n\n\tSome guys take a long vacation to throw a ring into a volcano.\n\nHamlet LITE(tm)\n\t-- by Wm. Shakespeare\n\n\tA college student on vacation with family problems, a screwy\n\tgirl-friend and a mother who won't act her age."
+  },
+  {
+    "id": 444,
+    "text": "A Tale of Two Cities LITE(tm)\n\t-- by Charles Dickens\n\n\tA man in love with a girl who loves another man who looks just\n\tlike him has his head chopped off in France because of a mean\n\tlady who knits.\n\nCrime and Punishment LITE(tm)\n\t-- by Fyodor Dostoevski\n\n\tA man sends a nasty letter to a pawnbroker, but later\n\tfeels guilty and apologizes.\n\nThe Odyssey LITE(tm)\n\t-- by Homer\n\n\tAfter working late, a valiant warrior gets lost on his way home."
+  },
+  {
+    "id": 445,
+    "text": "After all, all he did was string together a lot of old, well-known quotations.\n\t\t-- H. L. Mencken, on Shakespeare"
+  },
+  {
+    "id": 446,
+    "text": "Alas, how love can trifle with itself!\n\t\t-- William Shakespeare, \"The Two Gentlemen of Verona\""
+  },
+  {
+    "id": 447,
+    "text": "All generalizations are false, including this one.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 448,
+    "text": "All I know is what the words know, and dead things, and that\nmakes a handsome little sum, with a beginning and a middle and\nan end, as in the well-built phrase and the long sonata of the dead.\n\t\t-- Samuel Beckett"
+  },
+  {
+    "id": 449,
+    "text": "All say, \"How hard it is that we have to die\"--a strange complaint to come from\nthe mouths of people who have had to live.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 450,
+    "text": "\"... all the modern inconveniences ...\"\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 451,
+    "text": "All things that are, are with more spirit chased than enjoyed.\n\t\t-- Shakespeare, \"Merchant of Venice\""
+  },
+  {
+    "id": 452,
+    "text": "Always do right.  This will gratify some people and astonish the rest.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 453,
+    "text": "Always the dullness of the fool is the whetstone of the wits.\n\t\t-- William Shakespeare, \"As You Like It\""
+  },
+  {
+    "id": 454,
+    "text": "\"... an experienced, industrious, ambitious, and often quite often\npicturesque liar.\"\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 455,
+    "text": "An honest tale speeds best being plainly told.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 456,
+    "text": "And do you think (fop that I am) that I could be the Scarlet Pumpernickel?"
+  },
+  {
+    "id": 457,
+    "text": "Anyone who has had a bull by the tail knows five or six more things\nthan someone who hasn't.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 458,
+    "text": "April 1\n\nThis is the day upon which we are reminded of what we are on the other three\nhundred and sixty-four.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 459,
+    "text": "As flies to wanton boys are we to the gods; they kill us for their sport.\n\t\t-- Shakespeare, \"King Lear\""
+  },
+  {
+    "id": 460,
+    "text": "As to the Adjective: when in doubt, strike it out.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 461,
+    "text": "At once it struck me what quality went to form a man of achievement,\nespecially in literature, and which Shakespeare possessed so enormously\n-- I mean negative capability, that is, when a man is capable of being\nin uncertainties, mysteries, doubts, without any irritable reaching\nafter fact and reason.\n\t\t-- John Keats"
+  },
+  {
+    "id": 462,
+    "text": "AWAKE! FEAR! FIRE! FOES! AWAKE!\n\tFEAR! FIRE! FOES!\n\t\tAWAKE! AWAKE!\n\t\t-- J. R. R. Tolkien"
+  },
+  {
+    "id": 463,
+    "text": "Awash with unfocused desire, Everett twisted the lobe of his one remaining\near and felt the presence of somebody else behind him, which caused terror\nto push through his nervous system like a flash flood roaring down the\nmid-fork of the Feather River before the completion of the Oroville Dam\nin 1959.\n\t\t-- Grand Panjandrum's Special Award, 1984 Bulwer-Lytton\n\t\t   bad fiction contest."
+  },
+  {
+    "id": 464,
+    "text": "Be careful of reading health books, you might die of a misprint.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 465,
+    "text": "Behold, the fool saith, \"Put not all thine eggs in the one basket\"--which is\nbut a manner of saying, \"Scatter your money and your attention;\" but the wise\nman saith, \"Put all your eggs in the one basket and--WATCH THAT BASKET.\"\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 466,
+    "text": "Big book, big bore.\n\t\t-- Callimachus"
+  },
+  {
+    "id": 467,
+    "text": "But, for my own part, it was Greek to me.\n\t\t-- William Shakespeare, \"Julius Caesar\""
+  },
+  {
+    "id": 468,
+    "text": "By trying we can easily learn to endure adversity.  Another man's, I mean.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 469,
+    "text": "Civilization is the limitless multiplication of unnecessary necessities.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 470,
+    "text": "Clothes make the man.  Naked people have little or no influence on society.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 471,
+    "text": "Condense soup, not books!"
+  },
+  {
+    "id": 472,
+    "text": "Conscience doth make cowards of us all.\n\t\t-- Shakespeare"
+  },
+  {
+    "id": 473,
+    "text": "Consider well the proportions of things.  It is better to be a young June-bug\nthan an old bird of paradise.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 474,
+    "text": "Courage is resistance to fear, mastery of fear--not absence of fear.  Except a\ncreature be part coward it is not a compliment to say it is brave; it is merely\na loose misapplication of the word.  Consider the flea!--incomparably the\nbravest of all the creatures of God, if ignorance of fear were courage.\nWhether you are asleep or awake he will attack you, caring nothing for the fact\nthat in bulk and strength you are to him as are the massed armies of the earth\nto a sucking child; he lives both day and night and all days and nights in the\nvery lap of peril and the immediate presence of death, and yet is no more\nafraid than is the man who walks the streets of a city that was threatened by\nan earthquake ten centuries before.  When we speak of Clive, Nelson, and Putnam\nas men who \"didn't know what fear was,\" we ought always to add the flea--and\nput him at the head of the procession.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 475,
+    "text": "Delay not, Caesar.  Read it instantly.\n\t\t-- Shakespeare, \"Julius Caesar\" 3,1\n\nHere is a letter, read it at your leisure.\n\t\t-- Shakespeare, \"Merchant of Venice\" 5,1\n\n\t[Quoted in \"VMS Internals and Data Structures\", V4.4, when\n\t referring to I/O system services.]"
+  },
+  {
+    "id": 476,
+    "text": "Delores breezed along the surface of her life like a flat stone forever\nskipping along smooth water, rippling reality sporadically but oblivious\nto it consistently, until she finally lost momentum, sank, and due to an\noverdose of flouride as a child which caused her to suffer from chronic\napathy, doomed herself to lie forever on the floor of her life as useless\nas an appendix and as lonely as a five-hundred pound barbell in a\nsteroid-free fitness center.\n\t\t-- Winning sentence, 1990 Bulwer-Lytton bad fiction contest."
+  },
+  {
+    "id": 477,
+    "text": "Don't go around saying the world owes you a living.  The world owes you\nnothing.  It was here first.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 478,
+    "text": "\"Elves and Dragons!\" I says to him.  \"Cabbages and potatoes are better\nfor you and me.\"\n\t\t-- J. R. R. Tolkien"
+  },
+  {
+    "id": 479,
+    "text": "English literature's performing flea.\n\t\t-- Sean O'Casey on P. G. Wodehouse"
+  },
+  {
+    "id": 480,
+    "text": "Even the clearest and most perfect circumstantial evidence is likely to be at\nfault, after all, and therefore ought to be received with great caution.  Take\nthe case of any pencil, sharpened by any woman; if you have witnesses, you will\nfind she did it with a knife; but if you take simply the aspect of the pencil,\nyou will say that she did it with her teeth.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 481,
+    "text": "Every cloud engenders not a storm.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 482,
+    "text": "Every why hath a wherefore.\n\t\t-- William Shakespeare, \"A Comedy of Errors\""
+  },
+  {
+    "id": 483,
+    "text": "Extreme fear can neither fight nor fly.\n\t\t-- William Shakespeare, \"The Rape of Lucrece\""
+  },
+  {
+    "id": 484,
+    "text": "F.S. Fitzgerald to Hemingway:\n\t\"Ernest, the rich are different from us.\"\nHemingway:\n\t\"Yes.  They have more money.\""
+  },
+  {
+    "id": 485,
+    "text": "Fame is a vapor; popularity an accident; the only earthly certainty is\noblivion.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 486,
+    "text": "Familiarity breeds contempt -- and children.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 487,
+    "text": "Few things are harder to put up with than the annoyance of a good example.\n\t\t-- \"Mark Twain, Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 488,
+    "text": "For a light heart lives long.\n\t\t-- Shakespeare, \"Love's Labour's Lost\""
+  },
+  {
+    "id": 489,
+    "text": "For courage mounteth with occasion.\n\t\t-- William Shakespeare, \"King John\""
+  },
+  {
+    "id": 490,
+    "text": "For the fashion of Minas Tirith was such that it was built on seven levels,\neach delved into a hill, and about each was set a wall, and in each wall\nwas a gate.\n\t\t-- J.R.R. Tolkien, \"The Return of the King\"\n\n\t[Quoted in \"VMS Internals and Data Structures\", V4.4, when\n\t referring to system overview.]"
+  },
+  {
+    "id": 491,
+    "text": "For there are moments when one can neither think nor feel.  And if one can\nneither think nor feel, she thought, where is one?\n\t\t-- Virginia Woolf, \"To the Lighthouse\"\n\n\t[Quoted in \"VMS Internals and Data Structures\", V4.4, when\n\t referring to powerfail recovery.]"
+  },
+  {
+    "id": 492,
+    "text": "For years a secret shame destroyed my peace--\nI'd not read Eliot, Auden or MacNiece.\nBut now I think a thought that brings me hope:\nNeither had Chaucer, Shakespeare, Milton, Pope.\n\t\t-- Justin Richardson."
+  },
+  {
+    "id": 493,
+    "text": "Go not to the elves for counsel, for they will say both yes and no.\n\t\t-- J.R.R. Tolkien"
+  },
+  {
+    "id": 494,
+    "text": "Gone With The Wind LITE(tm)\n\t-- by Margaret Mitchell\n\n\tA woman only likes men she can't have and the South gets trashed.\n\nGift of the Magi LITE(tm)\n\t-- by O. Henry\n\n\tA husband and wife forget to register their gift preferences.\n\nThe Old Man and the Sea LITE(tm)\n\t-- by Ernest Hemingway\n\n\tAn old man goes fishing, but doesn't have much luck."
+  },
+  {
+    "id": 495,
+    "text": "Gratitude and treachery are merely the two extremities of the same procession.\nYou have seen all of it that is worth staying for when the band and the gaudy\nofficials have gone by.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 496,
+    "text": "Grief can take care of itself; but to get the full value of a joy you must\nhave somebody to divide it with.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 497,
+    "text": "Habit is habit, and not to be flung out of the window by any man, but coaxed\ndown-stairs a step at a time.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar"
+  },
+  {
+    "id": 498,
+    "text": "Hain't we got all the fools in town on our side?  And hain't that a big\nenough majority in any town?\n\t\t-- Mark Twain, \"Huckleberry Finn\""
+  },
+  {
+    "id": 499,
+    "text": "Harp not on that string.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 500,
+    "text": "Have a place for everything and keep the thing somewhere else; this is not\nadvice, it is merely custom.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 501,
+    "text": "Having nothing, nothing can he lose.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 502,
+    "text": "He draweth out the thread of his verbosity finer than the staple of his\nargument.\n\t\t-- William Shakespeare, \"Love's Labour's Lost\""
+  },
+  {
+    "id": 503,
+    "text": "He hath eaten me out of house and home.\n\t\t-- William Shakespeare, \"Henry IV\""
+  },
+  {
+    "id": 504,
+    "text": "He is now rising from affluence to poverty.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 505,
+    "text": "He jests at scars who never felt a wound.\n\t\t-- Shakespeare, \"Romeo and Juliet, II. 2\""
+  },
+  {
+    "id": 506,
+    "text": "He that breaks a thing to find out what it is has left the path of wisdom.\n\t\t-- J.R.R. Tolkien"
+  },
+  {
+    "id": 507,
+    "text": "He that is giddy thinks the world turns round.\n\t\t-- William Shakespeare, \"The Taming of the Shrew\""
+  },
+  {
+    "id": 508,
+    "text": "He was part of my dream, of course -- but then I was part of his dream too.\n\t\t-- Lewis Carroll"
+  },
+  {
+    "id": 509,
+    "text": "Hell is empty and all the devils are here.\n\t\t-- Wm. Shakespeare, \"The Tempest\""
+  },
+  {
+    "id": 510,
+    "text": "His followers called him Mahasamatman and said he was a god.  He preferred\nto drop the Maha- and the -atman, however, and called himself Sam.  He never\nclaimed to be a god.  But then, he never claimed not to be a god.  Circum-\nstances being what they were, neither admission could be of any benefit.\nSilence, though, could.  It was in the days of the rains that their prayers\nwent up, not from the fingering of knotted prayer cords or the spinning of\nprayer wheels, but from the great pray-machine in the monastery of Ratri,\ngoddess of the Night.  The high-frequency prayers were directed upward through\nthe atmosphere and out beyond it, passing into that golden cloud called the\nBridge of the Gods, which circles the entire world, is seen as a bronze\nrainbow at night and is the place where the red sun becomes orange at midday.\nSome of the monks doubted the orthodoxy of this prayer technique...\n\t\t-- Roger Zelazny, \"Lord of Light\""
+  },
+  {
+    "id": 511,
+    "text": "How apt the poor are to be proud.\n\t\t-- William Shakespeare, \"Twelfth-Night\""
+  },
+  {
+    "id": 512,
+    "text": "I do desire we may be better strangers.\n\t\t-- William Shakespeare, \"As You Like It\""
+  },
+  {
+    "id": 513,
+    "text": "I don't know half of you half as well as I should like; and I like less\nthan half of you half as well as you deserve.\n\t\t-- J. R. R. Tolkien"
+  },
+  {
+    "id": 514,
+    "text": "I dote on his very absence.\n\t\t-- William Shakespeare, \"The Merchant of Venice\""
+  },
+  {
+    "id": 515,
+    "text": "I fell asleep reading a dull book, and I dreamt that I was reading on,\nso I woke up from sheer boredom."
+  },
+  {
+    "id": 516,
+    "text": "I have never let my schooling interfere with my education.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 517,
+    "text": "I must have a prodigious quantity of mind; it takes me as much as a\nweek sometimes to make it up.\n\t\t-- Mark Twain, \"The Innocents Abroad\""
+  },
+  {
+    "id": 518,
+    "text": "I reverently believe that the maker who made us all  makes everything in New\nEngland, but the weather.  I don't know who makes that, but I think it must be\nraw apprentices in the weather-clerks factory who experiment and learn how, in\nNew England, for board and clothes, and then are promoted to make weather for\ncountries that require a good article, and will take their custom elsewhere\nif they don't get it.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 519,
+    "text": "I think we are in Rats' Alley where the dead men lost their bones.\n\t\t-- T.S. Eliot"
+  },
+  {
+    "id": 520,
+    "text": "I was gratified to be able to answer promptly, and I did. I said I didn't know.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 521,
+    "text": "I will honour Christmas in my heart, and try to keep it all the year.  I\nwill live in the Past, the Present, and the Future.  The Spirits of all\nThree shall strive within me.  I will not shut out the lessons that they\nteach.  Oh, tell me that I may sponge away the writing on this stone!\n\t\t-- Charles Dickens"
+  },
+  {
+    "id": 522,
+    "text": "\"I wonder\", he said to himself, \"what's in a book while it's closed.  Oh, I\nknow it's full of letters printed on paper, but all the same, something must\nbe happening, because as soon as I open it, there's a whole story with people\nI don't know yet and all kinds of adventures and battles.\"\n\t\t-- Bastian B. Bux"
+  },
+  {
+    "id": 523,
+    "text": "I'll burn my books.\n\t\t-- Christopher Marlowe"
+  },
+  {
+    "id": 524,
+    "text": "I've touch'd the highest point of all my greatness;\nAnd from that full meridian of my glory\nI haste now to my setting.  I shall fall,\nLike a bright exhalation in the evening\nAnd no man see me more.\n\t\t-- Shakespeare"
+  },
+  {
+    "id": 525,
+    "text": "If more of us valued food and cheer and song above hoarded gold, it would\nbe a merrier world.\n\t\t-- J.R.R. Tolkien"
+  },
+  {
+    "id": 526,
+    "text": "If one cannot enjoy reading a book over and over again, there is no use\nin reading it at all.\n\t\t-- Oscar Wilde"
+  },
+  {
+    "id": 527,
+    "text": "If two people love each other, there can be no happy end to it.\n\t\t-- Ernest Hemingway"
+  },
+  {
+    "id": 528,
+    "text": "If you laid all of our laws end to end, there would be no end.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 529,
+    "text": "If you pick up a starving dog and make him prosperous, he will not bite you.\nThis is the principal difference between a dog and a man.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 530,
+    "text": "If you tell the truth you don't have to remember anything.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 531,
+    "text": "In a museum in Havana, there are two skulls of Christopher Columbus,\n\"one when he was a boy and one when he was a man.\"\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 532,
+    "text": "In India, \"cold weather\" is merely a conventional phrase and has come into\nuse through the necessity of having some way to distinguish between weather\nwhich will melt a brass door-knob and weather which will only make it mushy.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 533,
+    "text": "In Marseilles they make half the toilet soap we consume in America, but\nthe Marseillaise only have a vague theoretical idea of its use, which they\nhave obtained from books of travel.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 534,
+    "text": "In the first place, God made idiots; this was for practice; then he made\nschool boards.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 535,
+    "text": "In the plot, people came to the land; the land loved them; they worked and\nstruggled and had lots of children.  There was a Frenchman who talked funny\nand a greenhorn from England who was a fancy-pants but when it came to the\ncrunch he was all courage.  Those novels would make you retch.\n\t\t-- Canadian novelist Robertson Davies, on the generic Canadian\n\t\t   novel."
+  },
+  {
+    "id": 536,
+    "text": "In the space of one hundred and seventy-six years the Mississippi has\nshortened itself two hundred and forty-two miles.  Therefore ... in the Old\nSilurian Period the Mississippi River was upward of one million three hundred\nthousand miles long ... seven hundred and forty-two years from now the\nMississippi will be only a mile and three-quarters long.  ... There is\nsomething fascinating about science.  One gets such wholesome returns of\nconjecture out of such a trifling investment of fact.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 537,
+    "text": "In the Spring, I have counted 136 different kinds of weather inside of\n24 hours.\n\t\t-- Mark Twain, on New England weather"
+  },
+  {
+    "id": 538,
+    "text": "It has long been an axiom of mine that the little things are infinitely\nthe most important.\n\t\t-- Sir Arthur Conan Doyle, \"A Case of Identity\""
+  },
+  {
+    "id": 539,
+    "text": "It is a wise father that knows his own child.\n\t\t-- William Shakespeare, \"The Merchant of Venice\""
+  },
+  {
+    "id": 540,
+    "text": "It is by the fortune of God that, in this country, we have three benefits:\nfreedom of speech, freedom of thought, and the wisdom never to use either.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 541,
+    "text": "It is easy to find fault, if one has that disposition.  There was once a man\nwho, not being able to find any other fault with his coal, complained that\nthere were too many prehistoric toads in it.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 542,
+    "text": "It is often the case that the man who can't tell a lie thinks he is the best\njudge of one.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 543,
+    "text": "It is right that he too should have his little chronicle, his memories,\nhis reason, and be able to recognize the good in the bad, the bad in the\nworst, and so grow gently old all down the unchanging days and die one\nday like any other day, only shorter.\n\t\t-- Samuel Beckett, \"Malone Dies\""
+  },
+  {
+    "id": 544,
+    "text": "It usually takes more than three weeks to prepare a good impromptu speech.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 545,
+    "text": "It were not best that we should all think alike; it is difference of opinion\nthat makes horse-races.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 546,
+    "text": "Its name is Public Opinion.  It is held in reverence.  It settles everything.\nSome think it is the voice of God.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 547,
+    "text": "Kindness is a language which the deaf can hear and the blind can read.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 548,
+    "text": "Kiss me, Kate, we will be married o' Sunday.\n\t\t-- William Shakespeare, \"The Taming of the Shrew\""
+  },
+  {
+    "id": 549,
+    "text": "Lay on, MacDuff, and curs'd be him who first cries, \"Hold, enough!\".\n\t\t-- Shakespeare"
+  },
+  {
+    "id": 550,
+    "text": "Let him choose out of my files, his projects to accomplish.\n\t\t-- Shakespeare, \"Coriolanus\""
+  },
+  {
+    "id": 551,
+    "text": "Let me take you a button-hole lower.\n\t\t-- William Shakespeare, \"Love's Labour's Lost\""
+  },
+  {
+    "id": 552,
+    "text": "Let us endeavor so to live that when we come to die even the undertaker will be\nsorry.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 553,
+    "text": "Like an expensive sports car, fine-tuned and well-built, Portia was sleek,\nshapely, and gorgeous, her red jumpsuit moulding her body, which was as warm\nas seatcovers in July, her hair as dark as new tires, her eyes flashing like\nbright hubcaps, and her lips as dewy as the beads of fresh rain on the hood;\nshe was a woman driven -- fueled by a single accelerant -- and she needed a\nman, a man who wouldn't shift from his views, a man to steer her along the\nright road: a man like Alf Romeo.\n\t\t-- Rachel Sheeley, winner\n\nThe hair ball blocking the drain of the shower reminded Laura she would never\nsee her little dog Pritzi again.\n\t\t-- Claudia Fields, runner-up\n\nIt could have been an organically based disturbance of the brain -- perhaps a\ntumor or a metabolic deficiency -- but after a thorough neurological exam it\nwas determined that Byron was simply a jerk.\n\t\t-- Jeff Jahnke, runner-up\n\nWinners in the 7th Annual Bulwer-Lytton Bad Writing Contest.  The contest is\nnamed after the author of the immortal lines:  \"It was a dark and stormy\nnight.\"  The object of the contest is to write the opening sentence of the\nworst possible novel."
+  },
+  {
+    "id": 554,
+    "text": "Lord, what fools these mortals be!\n\t\t-- William Shakespeare, \"A Midsummer-Night's Dream\""
+  },
+  {
+    "id": 555,
+    "text": "Man is the only animal that blushes -- or needs to.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 556,
+    "text": "Many a writer seems to think he is never profound except when he can't\nunderstand his own meaning.\n\t\t-- George D. Prentice"
+  },
+  {
+    "id": 557,
+    "text": "Many enraged psychiatrists are inciting a weary butcher.  The butcher is\nweary and tired because he has cut meat and steak and lamb for hours and\nweeks.  He does not desire to chant about anything with raving psychiatrists,\nbut he sings about his gingivectomist, he dreams about a single cosmologist,\nhe thinks about his dog.  The dog is named Herbert.\n\t\t-- Racter, \"The Policeman's Beard is Half-Constructed\""
+  },
+  {
+    "id": 558,
+    "text": "Many pages make a thick book, except for pocket Bibles which are on very\nvery thin paper."
+  },
+  {
+    "id": 559,
+    "text": "Many pages make a thick book."
+  },
+  {
+    "id": 560,
+    "text": "Mind!  I don't mean to say that I know, of my own knowledge, what there is\nparticularly dead about a door-nail.  I might have been inclined, myself,\nto regard a coffin-nail as the deadest piece of ironmongery in the trade.\nBut the wisdom of our ancestors is in the simile; and my unhallowed hands\nshall not disturb it, or the Country's done for.  You will therefore permit\nme to repeat, emphatically, that Marley was as dead as a door-nail.\n\t\t-- Charles Dickens, \"A Christmas Carol\""
+  },
+  {
+    "id": 561,
+    "text": "Must I hold a candle to my shames?\n\t\t-- William Shakespeare, \"The Merchant of Venice\""
+  },
+  {
+    "id": 562,
+    "text": "My dear People.\n\tMy dear Bagginses and Boffins, and my dear Tooks and Brandybucks,\nand Grubbs, and Chubbs, and Burrowses, and Hornblowers, and Bolgers,\nBracegirdles, Goodbodies, Brockhouses and Proudfoots.  Also my good\nSackville Bagginses that I welcome back at last to Bag End.  Today is my\none hundred and eleventh birthday: I am eleventy-one today!\"\n\t\t-- J. R. R. Tolkien"
+  },
+  {
+    "id": 563,
+    "text": "My only love sprung from my only hate!\nToo early seen unknown, and known too late!\n\t\t-- William Shakespeare, \"Romeo and Juliet\""
+  },
+  {
+    "id": 564,
+    "text": "Never laugh at live dragons.\n\t\t-- Bilbo Baggins [J.R.R. Tolkien, \"The Hobbit\"]"
+  },
+  {
+    "id": 565,
+    "text": "No group of professionals meets except to conspire against the public at large.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 566,
+    "text": "No live organism can continue for long to exist sanely under conditions of\nabsolute reality; even larks and katydids are supposed, by some, to dream.\nHill House, not sane, stood by itself against its hills, holding darkness\nwithin; it had stood so for eighty years and might stand for eighty more.\nWithin, walls continued upright, bricks met neatly, floors were firm, and\ndoors were sensibly shut; silence lay steadily against the wood and stone\nof Hill House, and whatever walked there, walked alone.\n\t\t-- Shirley Jackson, \"The Haunting of Hill House\""
+  },
+  {
+    "id": 567,
+    "text": "No violence, gentlemen -- no violence, I beg of you!  Consider the furniture!\n\t\t-- Sherlock Holmes"
+  },
+  {
+    "id": 568,
+    "text": "Noise proves nothing.  Often a hen who has merely laid an egg cackles\nas if she laid an asteroid.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 569,
+    "text": "\"Not Hercules could have knock'd out his brains, for he had none.\"\n\t\t-- Shakespeare"
+  },
+  {
+    "id": 570,
+    "text": "Nothing so needs reforming as other people's habits.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 571,
+    "text": "Nothing so needs reforming as other people's habits.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 572,
+    "text": "O, it is excellent\nTo have a giant's strength; but it is tyrannous\nTo use it like a giant.\n\t\t-- Shakespeare, \"Measure for Measure\", II, 2"
+  },
+  {
+    "id": 573,
+    "text": "October 12, the Discovery.\n\nIt was wonderful to find America, but it would have been more wonderful to miss\nit.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 574,
+    "text": "October.\n\nThis is one of the peculiarly dangerous months to speculate in stocks in.\n\nThe others are July, January, September, April, November, May, March, June,\nDecember, August, and February.\n\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 575,
+    "text": "O, what a tangled web we weave, When first we practice to deceive.\n\t\t-- Sir Walter Scott, \"Marmion\""
+  },
+  {
+    "id": 576,
+    "text": "One of the most striking differences between a cat and a lie is that a cat has\nonly nine lives.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 577,
+    "text": "Patch griefs with proverbs.\n\t\t-- William Shakespeare, \"Much Ado About Nothing\""
+  },
+  {
+    "id": 578,
+    "text": "Perilous to all of us are the devices of an art deeper than we ourselves\npossess.\n\t\t-- Gandalf the Grey [J.R.R. Tolkien, \"Lord of the Rings\"]"
+  },
+  {
+    "id": 579,
+    "text": "Persons attempting to find a motive in this narrative will be prosecuted;\npersons attempting to find a moral in it will be banished; persons attempting\nto find a plot in it will be shot.  By Order of the Author\n\t\t-- Mark Twain, \"The Adventures of Huckleberry Finn\""
+  },
+  {
+    "id": 580,
+    "text": "question = ( to ) ? be : ! be;\n\t\t-- Wm. Shakespeare"
+  },
+  {
+    "id": 581,
+    "text": "Reader, suppose you were an idiot.  And suppose you were a member of\nCongress.  But I repeat myself.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 582,
+    "text": "Rebellion lay in his way, and he found it.\n\t\t-- William Shakespeare, \"Henry IV\""
+  },
+  {
+    "id": 583,
+    "text": "Remark of Dr. Baldwin's concerning upstarts: We don't care to eat toadstools\nthat think they are truffles.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 584,
+    "text": "Repartee is something we think of twenty-four hours too late.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 585,
+    "text": "ROMEO:\t\tCourage, man; the hurt cannot be much.\nMERCUTIO:\tNo, 'tis not so deep as a well, nor so wide\n\t\t\tas a church-door; but 'tis enough, 'twill serve."
+  },
+  {
+    "id": 586,
+    "text": "Seeing that death, a necessary end,\nWill come when it will come.\n\t\t-- William Shakespeare, \"Julius Caesar\""
+  },
+  {
+    "id": 587,
+    "text": "She is not refined.  She is not unrefined.  She keeps a parrot.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 588,
+    "text": "Sheriff Chameleotoptor sighed with an air of weary sadness, and then\nturned to Doppelgutt and said 'The Senator must really have been on a\nbender this time -- he left a party in Cleveland, Ohio, at 11:30 last\nnight, and they found his car this morning in the smokestack of a British\naircraft carrier in the Formosa Straits.'\n\t\t-- Grand Panjandrum's Special Award, 1985 Bulwer-Lytton\n\t\t   bad fiction contest."
+  },
+  {
+    "id": 589,
+    "text": "Small things make base men proud.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 590,
+    "text": "So she went into the garden to cut a cabbage leaf to make an apple pie;\nand at the same time a great she-bear, coming up the street pops its head\ninto the shop. \"What! no soap?\" So he died, and she very imprudently\nmarried the barber; and there were present the Picninnies, and the Grand\nPanjandrum himself, with the little round button at top, and they all\nfell to playing the game of catch as catch can, till the gunpowder ran\nout at the heels of their boots.\n\t\t-- Samuel Foote"
+  },
+  {
+    "id": 591,
+    "text": "So so is good, very good, very excellent good:\nand yet it is not; it is but so so.\n\t\t-- William Shakespeare, \"As You Like It\""
+  },
+  {
+    "id": 592,
+    "text": "Soap and education are not as sudden as a massacre, but they are more\ndeadly in the long run.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 593,
+    "text": "Something's rotten in the state of Denmark.\n\t\t-- Shakespeare"
+  },
+  {
+    "id": 594,
+    "text": "Sometimes I wonder if I'm in my right mind.  Then it passes off and I'm\nas intelligent as ever.\n\t\t-- Samuel Beckett, \"Endgame\""
+  },
+  {
+    "id": 595,
+    "text": "\"Speak, thou vast and venerable head,\" muttered Ahab, \"which, though\nungarnished with a beard, yet here and there lookest hoary with mosses; speak,\nmighty head, and tell us the secret thing that is in thee.  Of all divers,\nthou has dived the deepest.  That head upon which the upper sun now gleams has\nmoved amid the world's foundations.  Where unrecorded names and navies rust,\nand untold hopes and anchors rot; where in her murderous hold this frigate\nearth is ballasted with bones of millions of the drowned; there, in that awful\nwater-land, there was thy most familiar home.  Thou hast been where bell or\ndiver never went; has slept by many a sailer's side, where sleepless mothers\nwould give their lives to lay them down.  Thou saw'st the locked lovers when\nleaping from their flaming ship; heart to heart they sank beneath the exulting\nwave; true to each other, when heaven seemed false to them.  Thou saw'st the\nmurdered mate when tossed by pirates from the midnight deck; for hours he fell\ninto the deeper midnight of the insatiate maw; and his murderers still sailed\non unharmed -- while swift lightnings shivered the neighboring ship that would\nhave borne a righteous husband to outstretched, longing arms.  O head! thou has\nseen enough to split the planets and make an infidel of Abraham, and not one\nsyllable is thine!\"\n\t\t-- H. Melville, \"Moby Dick\""
+  },
+  {
+    "id": 596,
+    "text": "Steady movement is more important than speed, much of the time.  So long\nas there is a regular progression of stimuli to get your mental hooks\ninto, there is room for lateral movement.  Once this begins, its rate is\na matter of discretion.\n\t\t-- Corwin, Prince of Amber"
+  },
+  {
+    "id": 597,
+    "text": "Stop!  There was first a game of blindman's buff.  Of course there was.\nAnd I no more believe Topper was really blind than I believe he had eyes\nin his boots.  My opinion is, that it was a done thing between him and\nScrooge's nephew; and that the Ghost of Christmas Present knew it.  The\nway he went after that plump sister in the lace tucker, was an outrage\non the credulity of human nature."
+  },
+  {
+    "id": 598,
+    "text": "Suspicion always haunts the guilty mind.\n\t\t-- Wm. Shakespeare"
+  },
+  {
+    "id": 599,
+    "text": "Swerve me?  The path to my fixed purpose is laid with iron rails,\nwhereon my soul is grooved to run.  Over unsounded gorges, through\nthe rifled hearts of mountains, under torrents' beds, unerringly I rush!\n\t\t-- Captain Ahab, \"Moby Dick\""
+  },
+  {
+    "id": 600,
+    "text": "Talkers are no good doers.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 601,
+    "text": "Tell the truth or trump--but get the trick.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 602,
+    "text": "Tempt not a desperate man.\n\t\t-- William Shakespeare, \"Romeo and Juliet\""
+  },
+  {
+    "id": 603,
+    "text": "The abuse of greatness is when it disjoins remorse from power.\n\t\t-- William Shakespeare, \"Julius Caesar\""
+  },
+  {
+    "id": 604,
+    "text": "The bay-trees in our country are all wither'd\nAnd meteors fright the fixed stars of heaven;\nThe pale-faced moon looks bloody on the earth\nAnd lean-look'd prophets whisper fearful change.\nThese signs forerun the death or fall of kings.\n\t\t-- Wm. Shakespeare, \"Richard II\""
+  },
+  {
+    "id": 605,
+    "text": "The better part of valor is discretion.\n\t\t-- William Shakespeare, \"Henry IV\""
+  },
+  {
+    "id": 606,
+    "text": "The bone-chilling scream split the warm summer night in two, the first\nhalf being before the scream when it was fairly balmy and calm and\npleasant, the second half still balmy and quite pleasant for those who\nhadn't heard the scream at all, but not calm or balmy or even very nice\nfor those who did hear the scream, discounting the little period of time\nduring the actual scream itself when your ears might have been hearing it\nbut your brain wasn't reacting yet to let you know.\n\t\t-- Winning sentence, 1986 Bulwer-Lytton bad fiction contest."
+  },
+  {
+    "id": 607,
+    "text": "The Bulwer-Lytton fiction contest is held ever year at San Jose State\nUniv.  by Professor Scott Rice.  It is held in memory of Edward George\nEarle Bulwer-Lytton (1803-1873), a rather prolific and popular (in his\ntime) novelist.  He is best known today for having written \"The Last\nDays of Pompeii.\"\n\nWhenever Snoopy starts typing his novel from the top of his doghouse,\nbeginning \"It was a dark and stormy night...\" he is borrowing from Lord\nBulwer-Lytton.  This was the line that opened his novel, \"Paul Clifford,\"\nwritten in 1830.  The full line reveals why it is so bad:\n\n\tIt was a dark and stormy night; the rain fell in torrents -- except\n\tat occasional intervals, when it was checked by a violent gust of\n\twind which swept up the streets (for it is in London that our scene\n\tlies), rattling along the housetops, and fiercely agitating the scanty\n\tflame of the lamps that struggled against the darkness."
+  },
+  {
+    "id": 608,
+    "text": "The camel died quite suddenly on the second day, and Selena fretted\nsullenly and, buffing her already impeccable nails -- not for the first\ntime since the journey begain -- pondered snidely if this would dissolve\ninto a vignette of minor inconveniences like all the other holidays spent\nwith Basil.\n\t\t-- Winning sentence, 1983 Bulwer-Lytton bad fiction contest."
+  },
+  {
+    "id": 609,
+    "text": "The countdown had stalled at 'T' minus 69 seconds when Desiree, the first\nfemale ape to go up in space, winked at me slyly and pouted her thick,\nrubbery lips unmistakably -- the first of many such advances during what\nwould prove to be the longest, and most memorable, space voyage of my\ncareer.\n\t\t-- Winning sentence, 1985 Bulwer-Lytton bad fiction contest."
+  },
+  {
+    "id": 610,
+    "text": "The devil can cite Scripture for his purpose.\n\t\t-- William Shakespeare, \"The Merchant of Venice\""
+  },
+  {
+    "id": 611,
+    "text": "The difference between a Miracle and a Fact is exactly the difference\nbetween a mermaid and a seal.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 612,
+    "text": "The difference between the right word and the almost right word is the\ndifference between lightning and the lightning bug.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 613,
+    "text": "The fashion wears out more apparel than the man.\n\t\t-- William Shakespeare, \"Much Ado About Nothing\""
+  },
+  {
+    "id": 614,
+    "text": "The first thing we do, let's kill all the lawyers.\n\t\t-- Wm. Shakespeare, \"Henry VI\", Part IV"
+  },
+  {
+    "id": 615,
+    "text": "The holy passion of Friendship is of so sweet and steady and loyal and\nenduring a nature that it will last through a whole lifetime, if not asked to\nlend money.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 616,
+    "text": "The human race has one really effective weapon, and that is laughter.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 617,
+    "text": "The human race is a race of cowards; and I am not only marching in that\nprocession but carrying a banner.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 618,
+    "text": "The last thing one knows in constructing a work is what to put first.\n\t\t-- Blaise Pascal"
+  },
+  {
+    "id": 619,
+    "text": "The Least Perceptive Literary Critic\n\tThe most important critic in our field of study is Lord Halifax.  A\nmost individual judge of poetry, he once invited Alexander Pope round to\ngive a public reading of his latest poem.\n\tPope, the leading poet of his day, was greatly surprised when Lord\nHalifax stopped him four or five times and said, \"I beg your pardon, Mr.\nPope, but there is something in that passage that does not quite please me.\"\n\tPope was rendered speechless, as this fine critic suggested sizeable\nand unwise emendations to his latest masterpiece.  \"Be so good as to mark\nthe place and consider at your leisure.  I'm sure you can give it a better\nturn.\"\n\tAfter the reading, a good friend of Lord Halifax, a certain Dr.\nGarth, took the stunned Pope to one side.  \"There is no need to touch the\nlines,\" he said.  \"All you need do is leave them just as they are, call on\nLord Halifax two or three months hence, thank him for his kind observation\non those passages, and then read them to him as altered.  I have known him\nmuch longer than you have, and will be answerable for the event.\"\n\tPope took his advice, called on Lord Halifax and read the poem\nexactly as it was before.  His unique critical faculties had lost none of\ntheir edge.  \"Ay\", he commented, \"now they are perfectly right.  Nothing can\nbe better.\"\n\t\t-- Stephen Pile, \"The Book of Heroic Failures\""
+  },
+  {
+    "id": 620,
+    "text": "The Least Successful Collector\n\tBetsy Baker played a central role in the history of collecting.  She\nwas employed as a servant in the house of John Warburton (1682-1759) who had\namassed a fine collection of 58 first edition plays, including most of the\nworks of Shakespeare.\n\tOne day Warburton returned home to find 55 of them charred beyond\nlegibility.  Betsy had either burned them or used them as pie bottoms.  The\nremaining three folios are now in the British Museum.\n\tThe only comparable literary figure was the maid who in 1835 burned\nthe manuscript of the first volume of Thomas Carlyle's \"The Hisory of the\nFrench Revolution\", thinking it was wastepaper.\n\t\t-- Stephen Pile, \"The Book of Heroic Failures\""
+  },
+  {
+    "id": 621,
+    "text": "The lovely woman-child Kaa was mercilessly chained to the cruel post of\nthe warrior-chief Beast, with his barbarian tribe now stacking wood at\nher nubile feet, when the strong clear voice of the poetic and heroic\nHandsomas roared, 'Flick your Bic, crisp that chick, and you'll feel my\nsteel through your last meal!'\n\t\t-- Winning sentence, 1984 Bulwer-Lytton bad fiction contest."
+  },
+  {
+    "id": 622,
+    "text": "The lunatic, the lover, and the poet,\nAre of imagination all compact...\n\t\t-- Wm. Shakespeare, \"A Midsummer Night's Dream\""
+  },
+  {
+    "id": 623,
+    "text": "The man who sets out to carry a cat by its tail learns something that\nwill always be useful and which never will grow dim or doubtful.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 624,
+    "text": "The naked truth of it is, I have no shirt.\n\t\t-- William Shakespeare, \"Love's Labour's Lost\""
+  },
+  {
+    "id": 625,
+    "text": "\"...The name of the song is called 'Haddocks' Eyes'!\"\n\t\"Oh, that's the name of the song, is it?\" Alice said, trying to\nfeel interested.\n\t\"No, you don't understand,\" the Knight said, looking a little\nvexed.  \"That's what the name is called.  The name really is, 'The Aged\nAged Man.'\"\n\t\"Then I ought to have said \"That's what the song is called'?\"\nAlice corrected herself.\n\t\"No, you oughtn't: that's quite another thing!  The song is\ncalled 'Ways and Means':  but that's only what it is called you know!\"\n\t\"Well, what is the song then?\" said Alice, who was by this\ntime completely bewildered.\n\t\"I was coming to that,\" the Knight said.  \"The song really is\n\"A-sitting on a Gate\": and the tune's my own invention.\"\n\t\t-- Lewis Carroll, \"Through the Looking Glass\""
+  },
+  {
+    "id": 626,
+    "text": "The notes blatted skyward as they rose over the Canada geese, feathered\nrumps mooning the day, webbed appendages frantically pedaling unseen\nbicycles in their search for sustenance, driven by cruel Nature's maxim,\n'Ya wanna eat, ya gotta work,' and at last I knew Pittsburgh.\n\t\t-- Winning sentence, 1987 Bulwer-Lytton bad fiction contest."
+  },
+  {
+    "id": 627,
+    "text": "The only people for me are the mad ones -- the ones who are mad to live,\nmad to talk, mad to be saved, desirous of everything at the same time,\nthe ones who never yawn or say a commonplace thing, but burn, burn, burn\nlike fabulous yellow Roman candles.\n\t\t-- Jack Kerouac, \"On the Road\""
+  },
+  {
+    "id": 628,
+    "text": "The only way to keep your health is to eat what you don't want, drink what\nyou don't like, and do what you'd rather not.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 629,
+    "text": "The Priest's grey nimbus in a niche where he dressed discreetly.\nI will not sleep here tonight. Home also I cannot go.\n\tA voice, sweetened and sustained, called to him from the sea.\nTurning the curve he waved his hand.  A sleek brown head, a seal's, far\nout on the water, round.  Usurper.\n\t\t-- James Joyce, \"Ulysses\""
+  },
+  {
+    "id": 630,
+    "text": "The Public is merely a multiplied \"me.\"\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 631,
+    "text": "The ripest fruit falls first.\n\t\t-- William Shakespeare, \"Richard II\""
+  },
+  {
+    "id": 632,
+    "text": "The secret source of humor is not joy but sorrow; there is no humor in Heaven.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 633,
+    "text": "The smallest worm will turn being trodden on.\n\t\t-- William Shakespeare, \"Henry VI\""
+  },
+  {
+    "id": 634,
+    "text": "The surest protection against temptation is cowardice.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 635,
+    "text": "The true Southern watermelon is a boon apart, and not to be mentioned with\ncommoner things.  It is chief of the world's luxuries, king by the grace of God\nover all the fruits of the earth.  When one has tasted it, he knows what the\nangels eat.  It was not a Southern watermelon that Eve took; we know it because\nshe repented.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 636,
+    "text": "The very ink with which all history is written is merely fluid prejudice.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 637,
+    "text": "There are more things in heaven and earth,\nHoratio, than are dreamt of in your philosophy.\n\t\t-- Wm. Shakespeare, \"Hamlet\""
+  },
+  {
+    "id": 638,
+    "text": "There are three infallible ways of pleasing an author, and the three form a\nrising scale of compliment: 1, to tell him you have read one of his books; 2,\nto tell him you have read all of his books; 3, to ask him to let you read the\nmanuscript of his forthcoming book.  No. 1 admits you to his respect; No. 2\nadmits you to his admiration; No. 3 carries you clear into his heart.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 639,
+    "text": "There is a great discovery still to be made in Literature: that of\npaying literary men by the quantity they do NOT write."
+  },
+  {
+    "id": 640,
+    "text": "There is always one thing to remember: writers are always selling somebody out.\n\t\t-- Joan Didion, \"Slouching Towards Bethlehem\""
+  },
+  {
+    "id": 641,
+    "text": "There is an old time toast which is golden for its beauty.\n\"When you ascend the hill of prosperity may you not meet a friend.\"\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 642,
+    "text": "There is no character, howsoever good and fine, but it can be destroyed by\nridicule, howsoever poor and witless.  Observe the ass, for instance: his\ncharacter is about perfect, he is the choicest spirit among all the humbler\nanimals, yet see what ridicule has brought him to.  Instead of feeling\ncomplimented when we are called an ass, we are left in doubt.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 643,
+    "text": "There is no distinctly native American criminal class except Congress.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 644,
+    "text": "There is no hunting like the hunting of man, and those who have hunted\narmed men long enough and liked it, never care for anything else thereafter.\n\t\t-- Ernest Hemingway"
+  },
+  {
+    "id": 645,
+    "text": "There's small choice in rotten apples.\n\t\t-- William Shakespeare, \"The Taming of the Shrew\""
+  },
+  {
+    "id": 646,
+    "text": "They have been at a great feast of languages, and stolen the scraps.\n\t\t-- William Shakespeare, \"Love's Labour's Lost\""
+  },
+  {
+    "id": 647,
+    "text": "They spell it \"da Vinci\" and pronounce it \"da Vinchy\".  Foreigners\nalways spell better than they pronounce.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 648,
+    "text": "Things past redress and now with me past care.\n\t\t-- William Shakespeare, \"Richard II\""
+  },
+  {
+    "id": 649,
+    "text": "This is the first age that's paid much attention to the future, which is a\nlittle ironic since we may not have one.\n\t\t-- Arthur Clarke"
+  },
+  {
+    "id": 650,
+    "text": "This night methinks is but the daylight sick.\n\t\t-- William Shakespeare, \"The Merchant of Venice\""
+  },
+  {
+    "id": 651,
+    "text": "This was the most unkindest cut of all.\n\t\t-- William Shakespeare, \"Julius Caesar\""
+  },
+  {
+    "id": 652,
+    "text": "To be or not to be.\n\t\t-- Shakespeare\nTo do is to be.\n\t\t-- Nietzsche\nTo be is to do.\n\t\t-- Sartre\nDo be do be do.\n\t\t-- Sinatra"
+  },
+  {
+    "id": 653,
+    "text": "Too much is just enough.\n\t\t-- Mark Twain, on whiskey"
+  },
+  {
+    "id": 654,
+    "text": "Training is everything.  The peach was once a bitter almond; cauliflower is\nnothing but cabbage with a college education.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 655,
+    "text": "Truth is the most valuable thing we have -- so let us economize it.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 656,
+    "text": "Unless hours were cups of sack, and minutes capons, and clocks the tongues\nof bawds, and dials the signs of leaping houses, and the blessed sun himself\na fair, hot wench in flame-colored taffeta, I see no reason why thou shouldst\nbe so superfluous to demand the time of the day.  I wasted time and now doth\ntime waste me.\n\t\t-- William Shakespeare"
+  },
+  {
+    "id": 657,
+    "text": "Wagner's music is better than it sounds.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 658,
+    "text": "Water, taken in moderation cannot hurt anybody.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 659,
+    "text": "We know all about the habits of the ant, we know all about the habits of the\nbee, but we know nothing at all about the habits of the oyster.  It seems\nalmost certain that we have been choosing the wrong time for studying the\noyster.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 660,
+    "text": "We should be careful to get out of an experience only the wisdom that is\nin it - and stay there, lest we be like the cat that sits down on a hot\nstove-lid.  She will never sit down on a hot stove-lid again - and that\nis well; but also she will never sit down on a cold one any more.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 661,
+    "text": "We were young and our happiness dazzled us with its strength.  But there was\nalso a terrible betrayal that lay within me like a Merle Haggard song at a\nFrench restaurant. [...]\n\tI could not tell the girl about the woman of the tollway, of her milk\nwhite BMW and her Jordache smile.  There had been a fight.  I had punched her\nboyfriend, who fought the mechanical bulls.  Everyone told him, \"You ride the\nbull, senor.  You do not fight it.\"  But he was lean and tough like a bad\nrib-eye and he fought the bull.  And then he fought me.  And when we finished\nthere were no winners, just men doing what men must do. [...]\n\t\"Stop the car,\" the girl said.\n\tThere was a look of terrible sadness in her eyes.  She knew about the\nwoman of the tollway.  I knew not how.  I started to speak, but she raised an\narm and spoke with a quiet and peace I will never forget.\n\t\"I do not ask for whom's the tollway belle,\" she said, \"the tollway\nbelle's for thee.\"\n\tThe next morning our youth was a memory, and our happiness was a lie.\nLife is like a bad margarita with good tequila, I thought as I poured whiskey\nonto my granola and faced a new day.\n\t\t-- Peter Applebome, International Imitation Hemingway\n\t\t   Competition"
+  },
+  {
+    "id": 662,
+    "text": "Well, anyway, I was reading this James Bond book, and right away I realized\nthat like most books, it had too many words.  The plot was the same one that\nall James Bond books have: An evil person tries to blow up the world, but\nJames Bond kills him and his henchmen and makes love to several attractive\nwomen.  There, that's it: 24 words.  But the guy who wrote the book took\n*thousands* of words to say it.\n\tOr consider \"The Brothers Karamazov\", by the famous Russian alcoholic\nFyodor Dostoyevsky.  It's about these two brothers who kill their father.\nOr maybe only one of them kills the father.  It's impossible to tell because\nwhat they mostly do is talk for nearly a thousand pages.  If all Russians talk\nas much as the Karamazovs did, I don't see how they found time to become a\nmajor world power.\n\tI'm told that Dostoyevsky wrote \"The Brothers Karamazov\" to raise\nthe question of whether there is a God.  So why didn't he just come right\nout and say: \"Is there a God? It sure beats the heck out of me.\"\n\tOther famous works could easily have been summarized in a few words:\n\n* \"Moby Dick\" -- Don't mess around with large whales because they symbolize\n  nature and will kill you.\n* \"A Tale of Two Cities\" -- French people are crazy.\n\t\t-- Dave Barry"
+  },
+  {
+    "id": 663,
+    "text": "What good is an obscenity trial except to popularize literature?\n\t\t-- Nero Wolfe, \"The League of Frightened Men\""
+  },
+  {
+    "id": 664,
+    "text": "What I tell you three times is true.\n\t\t-- Lewis Carroll"
+  },
+  {
+    "id": 665,
+    "text": "What no spouse of a writer can ever understand is that a writer is working\nwhen he's staring out the window."
+  },
+  {
+    "id": 666,
+    "text": "When angry, count four; when very angry, swear.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 667,
+    "text": "When I reflect upon the number of disagreeable people who I know who have gone\nto a better world, I am moved to lead a different life.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 668,
+    "text": "When I was younger, I could remember anything, whether it had happened\nor not; but my faculties are decaying now and soon I shall be so I\ncannot remember any but the things that never happened.  It is sad to\ngo to pieces like this but we all have to do it.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 669,
+    "text": "When in doubt, tell the truth.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 670,
+    "text": "When one burns one's bridges, what a very nice fire it makes.\n\t\t-- Dylan Thomas"
+  },
+  {
+    "id": 671,
+    "text": "When you are about to die, a wombat is better than no company at all.\n\t\t-- Roger Zelazny, \"Doorways in the Sand\""
+  },
+  {
+    "id": 672,
+    "text": "Whenever the literary German dives into a sentence, that is the last\nyou are going to see of him until he emerges on the other side of his\nAtlantic with his verb in his mouth.\n\t\t-- Mark Twain \"A Connecticut Yankee in King Arthur's Court\""
+  },
+  {
+    "id": 673,
+    "text": "Whenever you find that you are on the side of the majority, it is time\nto reform.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 674,
+    "text": "Whoever has lived long enough to find out what life is, knows how deep a debt\nof gratitude we owe to Adam, the first great benefactor of our race.  He\nbrought death into the world.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 675,
+    "text": "Why is it that we rejoice at a birth and grieve at a funeral?  It is because we\nare not the person involved.\n\t\t-- Mark Twain, \"Pudd'nhead Wilson's Calendar\""
+  },
+  {
+    "id": 676,
+    "text": "Work consists of whatever a body is obliged to do.\nPlay consists of whatever a body is not obliged to do.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 677,
+    "text": "Wrinkles should merely indicate where smiles have been.\n\t\t-- Mark Twain"
+  },
+  {
+    "id": 678,
+    "text": "Writing is easy; all you do is sit staring at the blank sheet of paper until\ndrops of blood form on your forehead.\n\t\t-- Gene Fowler"
+  },
+  {
+    "id": 679,
+    "text": "Writing is turning one's worst moments into money.\n\t\t-- J.P. Donleavy"
+  },
+  {
+    "id": 680,
+    "text": "\"You have been in Afghanistan, I perceive.\"\n\t\t-- Sir Arthur Conan Doyle, \"A Study in Scarlet\""
+  },
+  {
+    "id": 681,
+    "text": "\"You have heard me speak of Professor Moriarty?\"\n\t\"The famous scientific criminal, as famous among crooks as --\"\n\t\"My blushes, Watson,\" Holmes murmured, in a deprecating voice.\n\t\"I was about to say 'as he is unknown to the public.'\"\n\t\t-- A. Conan Doyle, \"The Valley of Fear\""
+  },
+  {
+    "id": 682,
+    "text": "You may my glories and my state dispose,\nBut not my griefs; still am I king of those.\n\t\t-- William Shakespeare, \"Richard II\""
+  },
+  {
+    "id": 683,
+    "text": "You mentioned your name as if I should recognize it, but beyond the\nobvious facts that you are a bachelor, a solicitor, a freemason, and\nan asthmatic, I know nothing whatever about you.\n\t\t-- Sherlock Holmes, \"The Norwood Builder\""
+  },
+  {
+    "id": 684,
+    "text": "You never have to change anything you got up in the middle of the night\nto write.\n\t\t-- Saul Bellow"
+  },
+  {
+    "id": 685,
+    "text": "You see, I consider that a man's brain originally is like a little empty\nattic, and you have to stock it with such furniture as you choose.  A fool\ntakes in all the lumber of every sort he comes across, so that the knowledge\nwhich might be useful to him gets crowded out, or at best is jumbled up with\na lot of other things, so that he has difficulty in laying his hands upon it.\nNow the skilful workman is very careful indeed as to what he takes into his\nbrain-attic.  He will have nothing but the tools which may help him in doing\nhis work, but of these he has a large assortment, and all in the most perfect\norder.  It is a mistake to think that that little room has elastic walls and\ncan distend to any extent.  Depend upon it there comes a time when for every\naddition of knowledge you forget something that you knew before.  It is of\nthe highest importance, therefore, not to have useless facts elbowing out\nthe useful ones.\n\t\t-- Sir Arthur Conan Doyle, \"A Study in Scarlet\""
+  },
+  {
+    "id": 686,
+    "text": "You tread upon my patience.\n\t\t-- William Shakespeare, \"Henry IV\""
+  },
+  {
+    "id": 687,
+    "text": "You will remember, Watson, how the dreadful business of the\nAbernetty family was first brought to my notice by the depth which the\nparsley had sunk into the butter upon a hot day.\n\t\t-- Sherlock Holmes"
+  },
+  {
+    "id": 688,
+    "text": "Your manuscript is both good and original, but the part that is good is not\noriginal and the part that is original is not good.\n\t\t-- Samuel Johnson"
+  },
+  {
+    "id": 689,
+    "text": "Zounds!  I was never so bethumped with words\nsince I first called my brother's father dad.\n\t\t-- William Shakespeare, \"Kind John\""
+  },
+  {
+    "id": 690,
+    "text": "The mind is its own place, and in itself\nCan make a Heav'n of Hell, a Hell of Heav'n.\n\t\t-- John Milton"
+  },
+  {
+    "id": 691,
+    "text": "\"I understand this is your first dead client,\" Sabian was saying.  The\nabsurdity of the statement made me want to laugh but they don't call me\nDeadpan Allie and lie.\n\t\t-- Pat Cadigan, \"Mindplayers\""
+  },
+  {
+    "id": 692,
+    "text": "A morgue is a morgue is a morgue.  They can paint the walls with aggressively\ncheerful primary colors and splashy bold graphics, but it's still a holding\nplace for the dead until they can be parted out to organ banks.  Not that I\nwould have cared normally but my viewpoint was skewed.  The relentless\npleasance of the room I sat in seemed only grotesque.\n\t\t-- Pat Cadigan, \"Mindplayers\""
+  },
+  {
+    "id": 693,
+    "text": "\"What's this?  Trix?  Aunt!  Trix?  You?  You're after the prize!  What\nis it?\"  He picked up the box and studied the back.  \"A glow-in-the-dark\nsquid!  Have you got it out of there yet?\"  He tilted the box, angling the\nlittle colored balls of cereal so as to see the bottom, and nearly spilling\nthem onto the table top.  \"Here it is!\"  He hauled out a little cream-colored,\nglitter-sprinkled squid, three-inches long and made out of rubbery plastic.\n\t\t-- James P. Blaylock, \"The Last Coin\""
+  },
+  {
+    "id": 694,
+    "text": "\"Good afternoon, madam.  How may I help you?\"\n\n\"Good afternoon.  I'd like a FrintArms HandCannon, please.\"\n\n\"A--?  Oh, now, that's an awfully big gun for such a lovely lady.  I\nmean, not everybody thinks ladies should carry guns at all, though I\nsay they have a right to.  But I think... I might... Let's have a look\ndown here.  I might have just the thing for you.  Yes, here we are!\nLook at that, isn't it neat?  Now that is a FrintArms product as well,\nbut it's what's called a laser -- a light-pistol some people call\nthem.  Very small, as you see; fits easily into a pocket or bag; won't\nspoil the line of a jacket; and you won't feel you're lugging half a\ntonne of iron around with you.  We do a range of matching accessories,\nincluding -- if I may say so -- a rather saucy garter holster.  Wish I\ngot to do the fitting for that!  Ha -- just my little joke.  And\nthere's *even*... here we are -- this special presentation pack: gun,\ncharged battery, charging unit, beautiful glider-hide shoulder holster\nwith adjustable fitting and contrast stitching, and a discount on your\nnext battery.  Full instructions, of course, and a voucher for free\nlessons at your local gun club or range.  Or there's the *special*\npresentation pack; it has all the other one's got but with *two*\ncharged batteries and a night-sight, too.  Here, feel that -- don't\nworry, it's a dummy battery -- isn't it neat?  Feel how light it is?\nSmooth, see?  No bits to stick out and catch on your clothes, *and*\nbeautifully balanced.  And of course the beauty of a laser is, there's\nno recoil.  Because it's shooting light, you see?  Beautiful gun,\nbeautiful gun; my wife has one.  Really.  That's not a line, she\nreally has.  Now, I can do you that one -- with a battery and a free\ncharge -- for ninety-five; or the presentation pack on a special\noffer for one-nineteen; or this, the special presentation pack, for\none-forty-nine.\"\n\n\"I'll take the special.\"\n\n\"Sound choice, madam, *sound* choice.  Now, do--?\"\n\n\"And a HandCannon, with the eighty-mill silencer, five GP clips, three\nsix-five AP/wire-fl'\bechettes clips, two bipropellant HE clips, and a\nSpecial Projectile Pack if you have one -- the one with the embedding\nrounds, not the signalers.  I assume the night-sight on this toy is\ncompatible?\"\n\n\"Aah... yes,  And how does madam wish to pay?\"\n\nShe slapped her credit card on the counter.  \"Eventually.\"\n\n\t\t-- Iain M. Banks, \"Against a Dark Background\""
+  },
+  {
+    "id": 695,
+    "text": "I got a hint of things to come when I overheard my boss lamenting, 'The\nbooks are done and we still don't have an author! I must sign someone\ntoday!\n\t\t-- Tamim Ansary, \"Edutopia Magazine, Issue 2, November 2004\"\n\t\t   on the topic of school textbooks"
+  }
+]
