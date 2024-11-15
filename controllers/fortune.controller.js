@@ -38,7 +38,7 @@ function getFortune(req, res) {
   }
 
   // Generate a random number
-  const id = generateRandomNumber(695, length);
+  const id = generateRandomNumber(1, length);
 
   // Get a fortune based on the id generated
   const fortune = fortunes.find((fortune) => fortune.id == id);
