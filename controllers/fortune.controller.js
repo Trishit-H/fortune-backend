@@ -17,6 +17,7 @@ try {
 
 // Determine the length of the fortunes array
 let length = fortunes.length;
+console.log(length);
 
 // Function to generate random number in an interval
 // Using randomInt function of crypto
@@ -37,7 +38,7 @@ function getFortune(req, res) {
   }
 
   // Generate a random number
-  const id = generateRandomNumber(1, length);
+  const id = generateRandomNumber(695, length);
 
   // Get a fortune based on the id generated
   const fortune = fortunes.find((fortune) => fortune.id == id);
